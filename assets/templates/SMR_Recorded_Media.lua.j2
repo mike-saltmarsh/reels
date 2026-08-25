@@ -1,0 +1,20 @@
+RecMedia = RecMedia or {}
+
+{% for reel in reels %}
+-- Media: {{ reel.category }}: {{ reel.key }}
+RecMedia["{{ reel.key }}"] = {
+	itemDisplayName = "{{ reel.itemDisplayName.key }}",
+	title = "{{ reel.title.key }}",
+	subtitle = "{{ reel.subtitle.key }}",
+	author = nil,
+	extra = nil,
+	spawning = 1,
+	category = "{{ reel.category }}",
+	lines = {
+		{% for line in reel.lines %}
+		{ text = "{{ line.text.key }}", r = {{ line.color.r }}, g = {{ line.color.g }}, b = {{ line.color.b }}, codes = "{{ line.formatted_codes }}" },
+		{% endfor %}
+	}
+}
+
+{% endfor %}

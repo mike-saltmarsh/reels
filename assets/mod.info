@@ -1,0 +1,11 @@
+id=SM_Reels
+name=Smike's Reels!
+description=Adds VHSes for non-combat skills that lack vanilla skilltapes.
+
+author=Smike
+poster=poster.png
+icon=mod_favicon.png
+
+pzversion=42.20
+versionMin=42.19
+modversion=0.1

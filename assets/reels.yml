@@ -1,0 +1,2841 @@
+# Ground truth for the vanilla XP info here: https://williamvenner.github.io/pz-rm-explorer/
+skills:
+  combat - firearms:
+    aiming:
+      vanilla XP: 87.5
+    reloading:
+      vanilla XP: 87.5
+  combat - melee:
+    axe:
+    long blade:
+    long blunt:
+      vanilla XP: 12.5
+    maintenance:
+    short blade:
+    short blunt:
+    spear:
+  crafting:
+    blacksmithing:
+    carpentry:
+      vanilla XP: 625
+      reels:
+      - key: SMR_Carpentry-E1
+        itemDisplayName: "VHS: This Old Trailer E1"
+        title: Carpentry
+        subtitle: "Episode 1: Chairs"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're going to be dismantling chairs.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Just go and find any old chair. Don't have one?
+        - text: Your neighbor's chair will do just fine.
+        - text: The only tools you will need are a hammer and saw.
+        - text: Go ahead and saw off the legs and backrest
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Take any good bits and set them to the side.
+        - text: Now go ahead and smash it a bit with your hammer.
+        - text: Really get in there and smash that seat up.
+        - text: Today we're just after firewood. The legs are good.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: So is the backrest. The seat is too big.
+        - text: Now once the seat is good and smashed you're done.
+        - text: You should have a small bit of wood for your own use.
+        - text: As long as you're somewhat skilled anyway.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: The smashed bits make good kindling though!
+        - text: Well that's all for today folks!
+        - text: Remember, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+      - key: SMR_Carpentry-E2
+        itemDisplayName: "VHS: This Old Trailer E2"
+        title: Carpentry
+        subtitle: "Episode 2: Doors"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're talking dismantling doors.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Our tools for this job are a hammer and screwdriver.
+        - text: Now these babies are great for getting some experience.
+        - text: There are lots of them in your typical house.
+        - text: Like your nextdoor neighbor's house for instance.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: You may have to smash a window to get in the house.
+        - text: "*glass breaking* But that's okay! Don't get cut going in!"
+        - text: Be sure to use a tool and smash the rest of the glass out.
+        - text: Now let's go in and open some doors up huh fellas?
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Open up every door in the house, we're going to dismantle them.
+        - text: Take your screwdriver and undo the hinges on the door.
+        - text: Then go ahead and smash it with your hammer a bunch.
+        - text: Now if you're skilled you should have some planks you can use.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Now that we've gotten rid of some pesky doors,
+        - text: It's time to drink all your neighbors beer! Hahaha.
+        - text: That's all for today. Remember folks, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+      - key: SMR_Carpentry-E3
+        itemDisplayName: "VHS: This Old Trailer E3"
+        title: Carpentry
+        subtitle: "Episode 3: Planks"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're going to be talking about planks.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Good for barricading windows and doorways.
+        - text: Good for making furniture to store your things in.
+        - text: In a pinch you can even use a plank as a weapon!
+        - text: They're good at knocking people down in a fight.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: I like to use planks for smashing my neighbor's windows.
+        - text: Then I get lots more planks to use for whatever I want!
+        - text: Careful not to carry too many at once though.
+        - text: They are pretty heavy and you could hurt yourself!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Be quiet and make multiple trips to avoid problems.
+        - text: Or you can always bring a buddy with you to help.
+        - text: Now we just need to figure out where to put all these planks.
+        - text: But we will talk about that more next episode.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: It's all about storage for planks and more!
+        - text: Well that's it for today's show. Hope it was informative.
+        - text: Remember, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+      - key: SMR_Carpentry-E4
+        itemDisplayName: "VHS: This Old Trailer E4"
+        title: Carpentry
+        subtitle: "Episode 4: Storage"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're talking about storage!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: You should have enough skill by now to make something.
+        - text: Crates are a good starting point for your storage needs.
+        - text: You'll need a hammer, 3 planks and 3 nails for one.
+        - text: Go ahead and build it any old place. Mine's in the garage.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: You can also make a small bookcase with 3 planks and 3 nails.
+        - text: I keep my collection of HottieZ magazines in mine.
+        - text: Need more storage in your kitchen or garage?
+        - text: Add some shelves for just 2 plank and 2 nails.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: A double shelf is 2 planks and 4 nails.
+        - text: Plenty of storage options for all your needs.
+        - text: Go ahead and think up some places in your old trailer,
+        - text: and add some storage space wheverever you need it.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: You can never have enough storage for all your planks.
+        - text: Or whatever else you're collecting out there.
+        - text: That's all for today. Remember, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+      - key: SMR_Carpentry-E5
+        itemDisplayName: "VHS: This Old Trailer E5"
+        title: Carpentry
+        subtitle: "Episode 5: Barricading"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're talking about barricading with planks!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Have you got lots of planks and nothing to use them on?
+        - text: Barricade your windows and any doorways you don't use!
+        - text: It's very handy at keeping the cops out of your old trailer.
+        - text: Or any pesky neighbors poking around asking about their stuff.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: You'll need a hammer and a bunch of nails for this job.
+        - text: And of course lots of planks. You should have plenty by now.
+        - text: If not go pay one of your neighbors a visit and get some.
+        - text: You can fit 4 planks over each window. You need 2 nails each.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Go ahead and barricade up all your windows in your trailer.
+        - text: If you have a backdoor go ahead and barricade that too.
+        - text: We don't want anyone sneaking in and attacking from behind.
+        - text: All barricaded up? Good! Now we can relax and drink some beer.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: My neighbor generously donated this 18 pack here.
+        - text: Nothing in this world better than free beer! Hahaha.
+        - text: That's all for today. Remember, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+      - key: SMR_Carpentry-E6
+        itemDisplayName: "VHS: This Old Trailer E6"
+        title: Carpentry
+        subtitle: "Episode 6: Nail Bat"
+        lines:
+        - text: This Old Trailer
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Trailer!
+        - text: Today we're going to be making something special, a nail bat.
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This weapon will serve you well in this crazy world.
+        - text: Very handy and easy to make. Just a bat with nails in it!
+        - text: All you need is your hammer, 5 nails and a baseball bat.
+        - text: Now if you don't have a bat, sporting good stores are great places!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: I'm sure you have one nearby you can borrow a bat from.
+        - text: Go ahead and hammer the nails in the top of the bat like so.
+        - text: Make sure they're nice and straight for extra stabby power!
+        - text: Now give it a few swings and see how it feels. Good right?
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: Careful not to hit yourself. That will leave a mark. Haha.
+        - text: Now you're armed up if any pesky neighbors come around.
+        - text: Nobody is going to steal your stash of planks now!
+        - text: All of us at This Old Trailer hope you picked up some skills,
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: watching us smash up our neighbor's house for planks.
+        - text: Keep an eye out for our next show This Old Generator!
+        - text: That's all for today. Remember, always play with your wood!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - CRP+1
+          - BOR-1
+        - text: This Old Trailer
+          icon: music
+    carving:
+    cooking:
+      vanilla XP: 487.5
+      reels:
+      - key: SMR_Cooking-E1
+        itemDisplayName: "VHS: Cooking With Gas E1"
+        title: Cooking
+        subtitle: "Episode 1: BBQ Is Best!"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: I love a good grilled meat, it's the best.
+        - text: You can grill so many different kinds of food it's insane!
+        - text: Did you know you can grill a Pot of Soup?
+        - text: Grilled Pancakes?! Yes sir! With butter and syrup!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: You can even grill up some tea on a cold night.
+        - text: I even use my grill to cook my bread and pies.
+        - text: Just about anything is possible when you are
+        - text: Cooking With Gas! Let your imagination soar!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Lets get a Propane Tank hooked up to the grill...
+        - text: Hey Roger have you seen where my Propane Tank went?
+        - text: "Roger Offscreen: Nope haven't seen it. Sorry dude."
+        - text: Well shoot. Good thing we have a few spares around.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: When you're Cooking With Gas you'll want to keep spares.
+        - text: Here at The Homestead we have lots of gas. Especially Rodney.
+        - text: "Rodney Offscreen: Shut up dude I don't fart that much."
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+      - key: SMR_Cooking-E2
+        itemDisplayName: "VHS: Cooking With Gas E2"
+        title: Cooking
+        subtitle: "Episode 2: Soup"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Today we're going to grill up a bit Pot of Soup.
+        - text: Now because we live on The Homestead we have lots of raw
+        - text: ingredients for our soup. Roger is a Farmer. He grows lots.
+        - text: So we have broccoli, cabbage, carrot, potato, tomato and radish.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: You'll only have room for 6 ingredients and each one is important.
+        - text: Your ingredients will make your Pot of Soup better for you,
+        - text: So you want to have a healthy variety of ingredients.
+        - text: You can also throw in some meat, or if you're low on that
+          codes:
+          - COO+1
+          - BOR-1
+        - text: you can use some Dry Ramen, or Canned Vegetables.
+        - text: If we get our hands on them we like to use Bell Peppers and Cheese.
+        - text: Your Pot of Soup will take 50 minutes to cook. Burns in 100 minutes.
+        - text: So keep an eye on your grill! You don't want to waste any food!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Here on The Homestead we use everything we get our hands on.
+        - text: Survivalist Skills work well together in keeping your group fed.
+        - text: You'll have to do all you can to keep fed as well.
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+      - key: SMR_Cooking-E3
+        itemDisplayName: "VHS: Cooking With Gas E3"
+        title: Cooking
+        subtitle: "Episode 3: Stew"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Today we're cooking up a pot of Fish and Cabbage Stew!
+        - text: Rodney came back with a bunch of fish so we have meat!
+        - text: Thanks to Roger we have good cabbages this season.
+        - text: All we need is a study Cooking Pot, same as with making soup.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: You'll need 1 and a half Fish Fillet and same for cabbage.
+        - text: Throw that in a pot of water and let it cook for 70 minutes.
+        - text: This meal is great when you're Hungry and it can help with Thirst.
+        - text: With this Stew you will have enough to share with a friend.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Which is good because your friends will have interesting ingredients!
+        - text: Think up some good Stew combinations! You can use a lot of stuff.
+        - text: Bacon, Steak, Meat Patty, Beef Jerky. You can even get a bit more
+        - text: out of ingredients that are going stale with Stews! Soups too!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Don't use anything Rotten though, unless you're a really skilled Cook.
+        - text: You'll only be able to save small amounts of Rotting foods to use.
+        - text: So they may not be worth the effort if you have something else.
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+      - key: SMR_Cooking-E4
+        itemDisplayName: "VHS: Cooking With Gas E4"
+        title: Cooking
+        subtitle: "Episode 4: Stir Fry"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Today we are going to make some Stir Fry with Rabbit Meat!
+        - text: Wayne brought us some rabbit meat even though he is scared of rabbits.
+        - text: "Wayne Offscreen: I'm not scared of the rabbits. I'm scared of Rabies dude."
+        - text: Fair enough. Rabies is scary. I wouldn't want to catch anything like it.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: For this dish you want to be cooking with a Frying Pan.
+        - text: Go ahead and throw in your Rabbit Meat first and pick out your vegetables.
+        - text: Today we've got Leek, Onion and Zuccini to go in our Rabbit Meat Stir Fry.
+        - text: Go ahead and grill it up until the Rabbit Meat is safe to eat.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Now you can enjoy a good hearty meal with friends.
+        - text: You can use plenty of ingredients in your Stir Fry.
+        - text: Lots of different meats and veggies can be added.
+        - text: You can even use Frog Meat in your Stir Fry. We have before.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: You know around here we do the Subsistence living.
+        - text: Our meat is from hunting, or veggies from growing.
+        - text: We're just a bunch of old Survivalists making do.
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+      - key: SMR_Cooking-E5
+        itemDisplayName: "VHS: Cooking With Gas E5"
+        title: Cooking
+        subtitle: "Episode 5: Pancakes"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: I eat a lot of Soup and Stew out here on The Homestead.
+        - text: Something I don't get a chance to make a lot are Pancakes.
+        - text: Pancakes are magical and yes you absolutely can grill them!
+        - text: I'll let you in on a little secret I found out recently too.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Even ghosts like to grill up some Pancakes. I've seen it.
+        - text: The guys and I have been out all day and come home to some
+        - text: mysterious Pancakes already sitting on the grill waiting.
+        - text: We all swear up and down it wasn't us that did it.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: It is a nice surprise though to come home to grilled Pancakes.
+        - text: And I believe the guys that they're not making the Pancakes.
+        - text: They don't ever do any Cooking. That's my job and they're lazy.
+        - text: I'm not making them, as much as I love grilling Pancakes.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: I just don't have the ingredients to make them that often!
+        - text: But I do appreciate the Pancake making Ghosts though.
+        - text: Been starving more than once after a run and come home to easy Pancakes.
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+      - key: SMR_Cooking-E6
+        itemDisplayName: "VHS: Cooking With Gas E6"
+        title: Cooking
+        subtitle: "Episode 6: Drinks"
+        lines:
+        - text: Cooking With Gas!
+          icon: music
+        - text: Welcome to Cooking With Gas! Your guide to Good Eats!
+        - text: I'm Paul and I love Cooking With Gas! BBQ grilling!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Today we're doing something different. We're making drinks!
+        - text: Now this drink is a great one to make on a hard day.
+        - text: Say you come back from a run and you're a bit stressed.
+        - text: What you need is a Hot Cuppa. Yessir it will fix you right up.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: You can use either Coffee or Tea Bags. You're gonna need Sugar.
+        - text: Now we don't keep a lot of Sugar on hand so it's a rare treat.
+        - text: Go ahead and fill a Kettle full of water and let it grill.
+        - text: You want hot water for your Cuppa Coffee or Tea.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Once that water is nice and hot take an Empty Mug and some Sugar
+        - text: to the grill and fix up a Hot Cuppa to enjoy and fix you up.
+        - text: You can always make a Cold Cuppa but I don't see why you would.
+        - text: When you're Cooking With Gas your food and drink are always hot!
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Now if you have a bunch of Sugar I suggest you make this stuff often.
+        - text: It will keep you warm and happy, and hopefully a little more stress free.
+        - text: So you can spend more time Cooking With Gas!
+        - text: That's all for today. We'll catch you next time fellas.
+          codes:
+          - COO+1
+          - BOR-1
+        - text: Cooking With Gas!
+          icon: music
+    electrical:
+      vanilla XP: 150
+      reels:
+      - key: SMR_Electrical-E1
+        itemDisplayName: "VHS: This Old Generator E1"
+        title: Electrical
+        subtitle: "Episode 1: Dismantling Lights"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're going to be talking about dismantling lights.
+        - text: Your neighbor's house is full of lamps just waiting for you.
+        - text: Go over there and dismantle some. All you need is a screwdriver.
+        - text: We talked about getting in safely on This Old Trailer, remember?
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Once you're in there stay quiet so you don't alert any neighbors.
+        - text: Dismantle some lights and be sure to keep all the light bulbs.
+        - text: You will need those bulbs for making your own electronics later!
+        - text: Now you may need a hammer for some of the lights attached onto walls.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: There is lots of stuff out there to dismantle for parts so keep an eye out.
+        - text: All of those parts will help a lot in crafting your own gadgets.
+        - text: So be sure to dismantle everything you can and save up supplies!
+        - text: You never know when you will need a motion activated pipe bomb.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Next episode we're going to talk about radios and their parts!
+        - text: That's all for today! We'll see you next time!
+        - text: Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+      - key: SMR_Electrical-E2  
+        itemDisplayName: "VHS: This Old Generator E2"
+        title: Electrical
+        subtitle: "Episode 2: Dismantling Radios"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're going to be talking about radios and parts.
+        - text: There are lots of radios out there so no need to dismantle your own.
+        - text: Go fetch your neighbor's radio and get out your trusty screwdriver.
+        - text: Lets get started taking this radio apart. There are lots of good parts here.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Aluminum, good for making hats and other stuff. Some electric wire here.
+        - text: A bit of electronic scrap. The guts for all our gadgets so keep every scrap of it!
+        - text: Now if you've got some skill you should be able to salvage the receiver. We got one here.
+        - text: These are good for remote triggers and fixing up your own radios in your trailer.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: I'm saving up some to make remote pipe bombs to protect my plank stash.
+        - text: Now you should also get some batteries out of the radios you dismantle.
+        - text: Toss the dead ones but keep every good battery you find. You will need them.
+        - text: Nothing worse than wanting to listen to your radio and not having any batteries.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: You may also get an Amplifier if you're a skilled electrician. Keep it.
+        - text: Those are good for noise makers to distract any pesky neighbors.
+        - text: That's all for today. Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+      - key: SMR_Electrical-E3
+        itemDisplayName: "VHS: This Old Generator E3"
+        title: Electrical
+        subtitle: "Episode 3: Dismantling TVs"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're talking about dismantling TVs for parts.
+        - text: Much like radios, we've got a bunch of good parts available.
+        - text: No need to mess up your own TV, go get your neighbor's TV.
+        - text: All you'll need is your trusty screwdriver for this job.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Start taking that TV apart for all those electronic scraps!
+        - text: You'll get more aluminum, electric wire and maybe an amplifier!
+        - text: Don't forget to keep those electronic scraps safe in your stash.
+        - text: Now that you've got that TV dismantled and your scrap safe, crack open a beer.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Celebrate by making yourself a nice aluminum hat. It keeps the neighbors out.
+        - text: Dismantling TVs is a fun past-time and makes you a true patriot.
+        - text: Taking away the fake news man's platform so he can't spread lies.
+        - text: Doing God's work right there. Damn government propagandas on my TV.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Take that you damn fake news man! Power to the people you communist!
+        - text: Anyway, next time we'll be talking about Electronic Scraps in depth.
+        - text: That's all for today. Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+      - key: SMR_Electrical-E4
+        itemDisplayName: "VHS: This Old Generator E4"
+        title: Electrical
+        subtitle: "Episode 4: Electronic Scrap"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're talking about Electronic Scrap!
+        - text: This stuff is the guts of every gadget you will make.
+        - text: So be sure to gather lots of it from your neighbor's electronics.
+        - text: These scraps are good for making your own radio and tv.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: You can also use them for making noisemakers and traps.
+        - text: You'll want to be sure to check your neighbor's bookcases,
+        - text: you can find some great magazines to teach you some gadgets.
+        - text: And all of them require Electronic Scraps. Lucky we have lots.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: If you're not slacking, you should have lots by now too.
+        - text: Try out making some gadgets with your scraps and spare parts.
+        - text: You will be amazed at how versatile these Electronic Scraps are!
+        - text: I use mine for making pipe bombs and pipe bomb accessories.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Good traps for when pesky neighbors are poking around.
+        - text: Or just a fun time for letting off some stress. Boom! Hahaha.
+        - text: That's all for today. Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+      - key: SMR_Electrical-E5
+        itemDisplayName: "VHS: This Old Generator E5"
+        title: Electrical
+        subtitle: "Episode 5: Generators"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're talking about Generators and keeping them repaired.
+        - text: Now before you start working on a Generator you need some skills.
+        - text: By now you should have found the magazine How To Use Generators
+        - text: If you haven't yet, check your neighbor's bookcases. Might get lucky.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: You can also burgle the local book store if you're feeling frisky.
+        - text: Now, Generators are found in warehouses and your neighbor's shed.
+        - text: They're heavy so make a plan on how to get it back to your trailer.
+        - text: Now take some Electronic Scraps out of your stash, we're going to use them.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: We need them to repair Generators so hopefully your stash isn't empty.
+        - text: Keep your Generators in good working order and properly setup OUTSIDE!
+        - text: Those fumes will kill you. So will the fire from a broken Generator.
+        - text: Yeah lots of fire. That's how my pa died. *Eyes tearing up*
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: "*Thousand yard stare* I'll never forget to repair another Generator."
+        - text: Ever again. I'm Sorry Jesus. Please don't send me to Hell for killing Pa.
+        - text: That's all for today. Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+      - key: SMR_Electrical-E6
+        itemDisplayName: "VHS: This Old Generator E6"
+        title: Electrical
+        subtitle: "Episode 6: Noisemakers"
+        lines:
+        - text: This Old Generator
+          icon: music
+        - text: Hi I'm Jim-Bob and welcome to This Old Generator!
+        - text: Our new electrician show about generators and such!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Today we're going to talk about noisemakers
+        - text: We've mentioned them before but haven't gone in depth.
+        - text: These handy little traps are a bit pricey to make costing 7 scraps.
+        - text: Worth every single one though. Throw them somewhere you want everyone to be.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: And watch all your neighbors come running to check it out!
+        - text: You'll need an amplifier for these babies but that should be easy.
+        - text: By now your stash of scraps and parts should have plenty of them.
+        - text: If not, you're seriously slacking and need to break some radios and TVs.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Keep your stash well stocked so you can crank out these noisemakers.
+        - text: You'll never be bothered by another pesky neighbor while borrowing their stuff.
+        - text: Make every supply run go smoothly! Or you can be a bit naughty with them.
+        - text: Throw them at your friends and watch the neighbors go wild tearing them apart.
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: Seriously nobody likes these things, they're loud as all hell.
+        - text: They'll make your damn ears bleed. Hell of a headache.
+        - text: That's all for today. Remember, AC/DC ain't just about rockin' out!
+        - text: This is Jim-Bob signing off!
+          codes:
+          - ELC+1
+          - BOR-1
+        - text: This Old Generator
+          icon: music
+    glassmaking:
+    knapping:
+    masonry:
+    mechanics:
+      vanilla XP: 262.5
+      reels:
+      - key: SMR_Mechanics-E1
+        itemDisplayName: "VHS: Ill Eagle Engines E1"
+        title: Mechanics
+        subtitle: "Episode 1: Gathering parts"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking salvage!
+        - text: As a mechanic you're going to need a lot of parts around.
+        - text: Now we always source our parts responsibly. *cough* *cough*
+        - text: Day trip in the van to Fort Thomas gets you all you need.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Seriously folks the wealthy neighborhoods have great parts....stores. *cough*
+        - text: Now you're going to want some gear with you on some parts runs.
+        - text: Most important to your work are a Screwdriver and a Wrench!
+        - text: But you'll also need a Jack, Tire Pump and Lug Wrench.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: If you're new to the craft, start with reinstalling lights, batteries and radios.
+        - text: Work on junkers and vehicles you don't care about. Don't just stick to one!
+        - text: Working the same model over and over won't teach you much so go hog wild.
+        - text: Stuff is going to break and you're going to end up with some parts along the way.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Stockpile really good parts and use the rest as fodder for gaining experience!
+        - text: Tear up all the old cars on your block down to scraps if nobody's using them!
+        - text: Just make sure you do it the Ill Eagle way, quick and quiet.
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+      - key: SMR_Mechanics-E2
+        itemDisplayName: "VHS: Ill Eagle Engines E2"
+        title: Mechanics
+        subtitle: "Episode 2: Tires"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking salvage!
+        - text: Specifically tires and how important they are on a salvage run!
+        - text: Now if you're going around in your van and you get a flat
+        - text: you will be cursing yourself if you don't have a spare.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Good tires are hard to find so keep your eyes open when on a run.
+        - text: Hell even bad tires are worth ripping off for the experience.
+        - text: Your aim should be to strip junkers anyway so this should be routine.
+        - text: In a pinch you can use an old tire as a spare to get home but be wary.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Bad tires could cause you to crash your van and get seriously hurt or worse.
+        - text: But you're out there doing it the Ill Eagle way, you've got yourself covered!
+        - text: You keep your tools on you and you're stocked up. Nothing to worry about.
+        - text: It also doesn't hurt to keep a gun around. For self defense. *cough*
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: An unarmed Ill Eagle Mechanic is an unprepared one. Bet on that.
+        - text: I keep my fully legal *cough* AK in the back of the van on runs.
+        - text: You won't be catching me unprepared out there, no sir.
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+      - key: SMR_Mechanics-E3
+        itemDisplayName: "VHS: Ill Eagle Engines E3"
+        title: Mechanics
+        subtitle: "Episode 3: Auto Manuals"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking repair!
+        - text: Today we're talking about auto manuals.
+        - text: These things will teach you to work with specific models.
+        - text: A good Ill Eagle Mechanic knows a variety of models.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: So you'll want to keep your eyes open for these manuals.
+        - text: You can find them anywhere you find literature and they're common.
+        - text: So no excuse when it comes to not knowing your stuff!
+        - text: You have manuals for Standard, Commercial and Performance models.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: If you're not having the best of luck and book stores don't have a copy
+        - text: knock on your neighbor's door and see who has some books for trade.
+        - text: You'd be surprised how many of your neighbors do things the Ill Eagle way.
+        - text: There could be an Ill Eagle Mechanic with plenty of spare copies nextdoor.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: The magazines may be common but they're worth trading a couple good parts for.
+        - text: That knowledge will take you far in your journey through Ill Eagle Mechanics.
+        - text: Get out there and get to work salvaging and repairing the Ill Eagle way.
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+      - key: SMR_Mechanics-E4
+        itemDisplayName: "VHS: Ill Eagle Engines E4"
+        title: Mechanics
+        subtitle: "Episode 4: Hot-Wiring"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking repair!
+        - text: You know losing your car keys happens to everyone.
+        - text: To the untrained it's terrible and can stop your salvage runs.
+        - text: But to an Ill Eagle Mechanic it's really not that bad.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: You need some Electrical experience but Mechanically it's easy.
+        - text: Now you may have to smash a window in some cases.
+        - text: Don't be a cowboy and use your elbow. Use a wrench.
+        - text: Now that you're in the car pop the ignition.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Get those wires and splice them here. Yep.
+        - text: Now we're ready to go on a supply run!
+        - text: Word to the wise a hotwired car can be driven by anyone.
+        - text: So it's a bit less secure than having your key.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: But any Ill Eagle Mechanic could take your car.
+        - text: We wouldn't do that to you though. *cough*
+        - text: Unless you live in Fort Thomas anyway. Haha.
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+      - key: SMR_Mechanics-E5
+        itemDisplayName: "VHS: Ill Eagle Engines E5"
+        title: Mechanics
+        subtitle: "Episode 5: Brakes"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking salvage!
+        - text: Specifically brakes. You're going to have a bad time without them.
+        - text: Your brakes are important and control your ability to stop.
+        - text: Old or damaged brakes may not work in time or make you skid offroad.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: You'll end up hurting yourself and busting up your salvage van.
+        - text: So when you're out there on your salvage runs grab brakes.
+        - text: You may already have a stockpile this far into Ill Eagle Mechanics.
+        - text: There are lots of parts you should keep for yourself or trade.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Cars can get damaged quickly and sometimes parts can get scarce.
+        - text: So it's essential to have a stockpile to survive a parts drought.
+        - text: Otherwise you may find yourself traveling further for parts
+        - text: and unfamililar territory can get dangerous fast.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Remember how we talked about the importance of being armed?im
+        - text: Stuff like this is exactly why. On your quest for parts
+        - text: You will at least once or twice run into trouble!
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+      - key: SMR_Mechanics-E6
+        itemDisplayName: "VHS: Ill Eagle Engines E6"
+        title: Mechanics
+        subtitle: "Episode 6: Structural Work"
+        lines:
+        - text: Ill Eagle Engines!
+          icon: music
+        - text: Howdy and thanks for tuning in to Ill Eagle Engines!
+        - text: The show about vehicle salvage and repair!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: I'm your host Jackson and we're talking repair!
+        - text: Sometimes you may have to do structural work on your van.
+        - text: For this you're going to need a Torch and Welding Mask.
+        - text: The mask is really important so you don't go blind.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: You won't be able to weld at all without one.
+        - text: You'll also need propane for your Welding Torch.
+        - text: You can find this stuff around in BBQ grills a lot.
+        - text: It's not very common for me to find a Propane Tank
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: So when I do I take it home as soon as possible.
+        - text: You don't want to lose it or the rest of your haul.
+        - text: Not every person out there salvaging is friendly.
+        - text: In my 20 years of salvaging I've only lost two hauls.
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: And that's because I do things the Ill Eagle way.
+        - text: Quick and quiet with nobody noticing you at all.
+        - text: Practice that and you'll be a pro in no time!
+        - text: Well that's the end of our episode today. Tune in next time!
+          codes:
+          - MEC+1
+          - BOR-1
+        - text: Ill Eagle Engines!
+          icon: music
+    pottery:
+    tailoring:
+      vanilla XP: 150
+      reels:
+      - key: SMR_Tailoring-E1
+        itemDisplayName: "VHS: Patch Perfect E1"
+        title: Tailoring
+        subtitle: "Episode 1: Thread"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Today we're talking about thread.
+        - text: You can't do any tailoring without the stuff.
+        - text: So where do you get it? You can find it in stores and sheds.
+        - text: If you're skilled at Tailoring you can also get some back
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: when you tear up old clothes for some materials.
+        - text: So you will want to get as much experience as possible.
+        - text: The best way to do that is just patch up clothing!
+        - text: Practice by patching up that shirt full of holes.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Now take the patches off and do it again and again.
+        - text: It's not very much fun but you will gain experience.
+        - text: The more skilled you are in Tailoring the better you patch clothes.
+        - text: And remember if you have extra clothes you aren't going to need
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: tear them up for thread so you can have a stockpile.
+        - text: I like to sneak into public laundromats and steal clothes to tear up.
+        - text: That way I'm not tearing up my own clothes all the time.
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+      - key: SMR_Tailoring-E2
+        itemDisplayName: "VHS: Patch Perfect E2"
+        title: Tailoring
+        subtitle: "Episode 2: Needles"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Today we're talking about needles.
+        - text: You can find these in medicine cabinets inside houses.
+        - text: If you don't have a needle already go searching.
+        - text: I'm sure your neighbors won't mind you checking their bathrooms.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: You can also find them in Sewing Kits, which come with thread!
+        - text: So definitely keep an eye out for any Sewing Kits to take home.
+        - text: I don't pass up a single one because free thread is so great!
+        - text: It also helps to have the extra needles around since they're small.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: They're easy to lose so having an extra will come in handy in a pinch.
+        - text: Once you have a good supply of needle and thread it's time to get to work.
+        - text: Patch up every piece of clothing in sight. Steal some to patch up!
+        - text: All the hustle and bustle of life will give you plenty of clothing to patch.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: With time and patience you'll master Tailoring and always look stylish
+        - text: while your friends look like bums. Well my friends ARE bums but that's beside the point.
+        - text: You bunch of bums! You know who you are!
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+      - key: SMR_Tailoring-E3
+        itemDisplayName: "VHS: Patch Perfect E3"
+        title: Tailoring
+        subtitle: "Episode 3: Ripped Sheets"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Today we're talking about Ripped Sheets.
+        - text: Just your standard cotton material from clothes and sheets.
+        - text: This stuff is your standard material for patching clothes cheap.
+        - text: It won't offer very much added protection since it's lightweight.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: It could save you from a bad scratch though. It could get infected!
+        - text: Using cloth patches won't have your clothes looking brand new,
+        - text: but it's a great starting point to learn patching.
+        - text: And it's certainly much better than running around like a weirdo
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: wearing bloody, dirty rags and raving about Scrap Metal.
+        - text: Now you really shouldn't have to work hard for a stockpile of cloth.
+        - text: We talked about ripping up stuff last episode for thread.
+        - text: You'll be getting lots of cloth as a byproduct in your quest for thread.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: As long as you're not slacking you will be overflowing with cloth!
+        - text: In the next episode we'll talk about better patching materials
+        - text: and how you can get them for your Tailoring supply stockpile!
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+      - key: SMR_Tailoring-E4
+        itemDisplayName: "VHS: Patch Perfect E4"
+        title: Tailoring
+        subtitle: "Episode 4: Denim Strips"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Today we're talking about Denim Strips.
+        - text: This is your middle of the road patching material.
+        - text: You can get this stuff by cutting up Denim clothes.
+        - text: You'll need a pair of scissors with you for this.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: When I need more Denim Strips I visit my local laundromat.
+        - text: You can also visit a clothing store for Denim clothes.
+        - text: Either place should have some denim for you.
+        - text: Save up this stuff since it's rarer than Cotton clothes.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: You'll want to save these patches for important clothing.
+        - text: Stuff you want extra protection on, or something that is
+        - text: made of denim itself. We'll talk about that in the future!
+        - text: So go out there and cut up some denim for your stockpile.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: It's a very small and lightweight material.
+        - text: That makes storage and transport a breeze!
+        - text: In the next episode we're going to talk about high end patches.
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+      - key: SMR_Tailoring-E5
+        itemDisplayName: "VHS: Patch Perfect E5"
+        title: Tailoring
+        subtitle: "Episode 5: Leather Strips"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Today we're talking about Leather Strips.
+        - text: This is our high end patching material and important stuff.
+        - text: You do not want to waste this material on junk clothing.
+        - text: You get Leather Strips by cutting up Leather jackets.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Once again you'll be using your scissors so keep them handy.
+        - text: You're only going to get this material from Leather jackets
+        - text: It's not something you're going to have a lot of on hand.
+        - text: So it's really important that you save these patches.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Use them on Leather jackets you want to keep repaired.
+        - text: Now if you find yourself with lots of spare patches,
+        - text: go ahead and use them for the added protection.
+        - text: Leather is really strong against bites if you find yourself
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: in that part of town on a Saturday night looking for supplies.
+        - text: Every time I go by Jim-Bob's Trailer he tries to bite me.
+        - text: I'm only looking for Thread, Jim-Bob. Stop attacking me for planks!
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+      - key: SMR_Tailoring-E6
+        itemDisplayName: "VHS: Patch Perfect E6"
+        title: Tailoring
+        subtitle: "Episode 6: High Level Tailoring"
+        lines:
+        - text: Patch Perfect
+          icon: music
+        - text: Hello my name is Ruby and you're watching Patch Perfect!
+        - text: The show where we teach you how to patch up your wardrobe!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Did you know that a skilled Tailor can completely repair clothing?
+        - text: That's right! At Level 8 Tailoring and with the correct fabric
+        - text: you can completely repair holes in your clothing! So wonderful!
+        - text: Now this isn't easy to achieve and I bet you realize that by now.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Getting good at Tailoring is a lot of work and none of it is very fun.
+        - text: But the rewards are massive! You can keep your wardrobe looking Patch Perfect!
+        - text: My friends are always jealous of my stylish and beautiful clothing.
+        - text: Those bums just run around in rags all the time. I patch them up a lot.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: It's good experience even for a Level 8 Tailor on their way to the top.
+        - text: So keep up the patchwork and striving for that Patch Perfect look!
+        - text: The better you get the more stylish you look until you're Patch Perfect!
+        - text: If I can make Daryl look respectable then you should have no issues.
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Trust me on that. Daryl is a mess. He's constantly ripping his clothes.
+        - text: I guess that's life when you work with sharp metal.
+        - text: I prefer the Patch Perfect lifestyle myself. The only thing sharp is my outfit!
+        - text: Well that's it for now! Have a Patch Perfect day!
+          codes:
+          - TAI+1
+          - BOR-1
+        - text: Patch Perfect
+          icon: music
+    welding:
+      vanilla XP: 225
+      reels:
+      - key: SMR_Welding-E1
+        itemDisplayName: "VHS: Scrap Metal Maniac E1"
+        title: Welding
+        subtitle: "Episode 1: Car Wrecks"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: Today we're scrapping wrecked cars for materials.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: If your neighborhood is anything like mine there are plenty.
+        - text: Now luckily we don't have to go far today,
+        - text: someone crashed outside my house earlier and left their car.
+        - text: Mind the blood and broken glass, you don't want to get hurt.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: For dismantling cars you need a propane torch and welding mask.
+        - text: The mask is important so search garages, storage units and factories.
+        - text: You don't want to go blind trying to weld! Trust me on that.
+        - text: Take your torch and start stripping the car for good parts.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: You'll get some sheet metal, metal bars and metal pipes.
+        - text: All good stuff you will need for welding up your own goods.
+        - text: You can make chairs, doors, storage fences and gates.
+        - text: Far more sturdy than wooden stuff. Don't tell Jim-Bob I said that.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: You'll need welding rods if you plan on making stuff.
+        - text: They can be found in the same places as a welding mask!
+        - text: Keep on stripping cars and you'll have plenty of materials in no time.
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+      - key: SMR_Welding-E2
+        itemDisplayName: "VHS: Scrap Metal Maniac E2"
+        title: Welding
+        subtitle: "Episode 2: Metal Sheet"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: We're going to be working with Metal Sheet today.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Really versatile stuff we've got here.
+        - text: You can use it to make shelves, crates, lockers and more!
+        - text: Sturdy storage space that looks great. Or you can use it to barricade.
+        - text: Stronger than your old plank and nail barricades, these will last!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Metal Sheet is bulky and heavy so you'll have to plan out gathering it.
+        - text: Nothing worse than carrying 50lbs of Metal Sheet with pesky neighbors around.
+        - text: You won't be able to easily run away with that much metal in your possession.
+        - text: I gather mine on the road and shove it right into the bed of my truck.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Easy transport, easy getaway in a sticky situation with pesky neighbors.
+        - text: Don't forget your Torch and Mask. Mine are always nearby in the truck.
+        - text: That way I can bring home metal on every supply run out in the world.
+        - text: But I'm a Scrap Metal Maniac and always on the lookout for good metal.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: I don't expect you all to be as crazy about metal as I am.
+        - text: It definitely helps to bring home as much scrap metal as you can.
+        - text: Try and be a Scrap Metal Maniac like me! You'll be swimming in metal.
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+      - key: SMR_Welding-E3
+        itemDisplayName: "VHS: Scrap Metal Maniac E3"
+        title: Welding
+        subtitle: "Episode 3: Metal Bars"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: Today we're working with Metal Bars.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Good for making Metal Window Bars for barricading.
+        - text: If you have a copy of Metalwork Magazine 1 on hand
+        - text: You can also make Metal Wall Frames with Metal Bars.
+        - text: They can also be used as a weapon in a pinch. Not great though.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: But if you have nothing else it will work to fight off pesky neighbors.
+        - text: For now lets just worry about barricading with them.
+        - text: Take your Metal Bars to a window with your Torch and start barricading!
+        - text: It's really easy. It doesn't need to look pretty it just needs to work.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: This will definitely keep out pesky neighbors that wander over.
+        - text: See that? Nice and strong. Welded right to the house.
+        - text: With practice you'll get better at working with metal.
+        - text: You too can become a Scrap Metal Maniac with time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: You'll never look at copper wire the same way ever again.
+        - text: That juicy, juicy copper wire. Just there for the taking.
+        - text: Whoops. Sorry. Got a bit distracted there.
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+      - key: SMR_Welding-E4
+        itemDisplayName: "VHS: Scrap Metal Maniac E4"
+        title: Welding
+        subtitle: "Episode 4: Metal Pipes"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: Today we're working with Metal Pipes.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: You'll be using these babies a lot when making stuff.
+        - text: Essential in making shelves, crates, lockers, gates and doors.
+        - text: You can even use them to make pipe bombs! Jim-Bob's favorite.
+        - text: You will want to make sure your supplies are stocked with these.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Now working with metal is not easy so you will need some skill!
+        - text: Practice by dismantling cars and other metal objects for now.
+        - text: While you're gaining experience you'll be stocking up on supplies.
+        - text: Like with my Metal Sheet runs, I like to use my truck for easy transport.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Also, keep your eyes open for Metalwork Magazine on your supply runs!
+        - text: You will want to learn as much as you can from those magazines.
+        - text: For any kind of Metalworking furniture it's a requirement!
+        - text: So read up and keep at it on that Metalworking!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: You'll be a Scrap Metal Maniac like me in no time!
+        - text: You'll lose sleep over Scrap Metal.
+        - text: Everything shiny will catch your eye. Like a damn bird.
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+      - key: SMR_Welding-E5
+        itemDisplayName: "VHS: Scrap Metal Maniac E5"
+        title: Welding
+        subtitle: "Episode 5: Scrap Metal"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: Today we're talking about Scrap Metal.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: The little bits of leftover metal from dismantling things.
+        - text: You're going to be using a lot of this stuff while Metalworking.
+        - text: You've probably already noticed but it's useful for everything metal.
+        - text: Thankfully it's plentiful stuff. You should have a stockpile of Scrap Metal.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Every Scrap Metal Maniac I know has tons of the stuff. We don't share though.
+        - text: So get out there and dismantle things to build up your stockpile!
+        - text: No self-respecting Scrap Metal Maniac would dare run out.
+        - text: It's okay to get a bit low on stock though. That just means you're making stuff!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Follow it up with a supply run and you should never run out.
+        - text: Scrap every washer and dryer, oven and fridge in your neighborhood!
+        - text: Then bring it on home and get to fortifying your house!
+        - text: You want lots of barricades, metal doors and walls.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: That way no one is getting to your stash of Scrap Metal!
+        - text: Remember, Scrap Metal Maniacs don't share, we scavange!
+        - text: So get your own damn Metal. What is this, a Charity?
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+      - key: SMR_Welding-E6
+        itemDisplayName: "VHS: Scrap Metal Maniac E6"
+        title: Welding
+        subtitle: "Episode 6: Propane Tanks"
+        lines:
+        - text: Scrap Metal Maniac
+          icon: music
+        - text: My name is Daryl and I'm a Scrap Metal Maniac!
+        - text: Today we're talking Propane Tanks!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Essential for our Metalworking, we use propane for our Torch.
+        - text: On your Scrap Metal runs you should be checking BBQ Grills for Propane.
+        - text: By now you may be out of Propane. If you're lucky you have a spare tank.
+        - text: Start searching your neighborhood if you've run out. Make it a priority on runs.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: The tanks are heavy so once again, use a vehicle like my truck for hauling.
+        - text: You don't want to be lugging around explosive Propane Tanks
+        - text: if your pesky neighbors run up on you while you're out and about.
+        - text: Once you have a supply of Propane go ahead and refill your Torch.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: If you have multiple Torches go ahead and fill them all up.
+        - text: Creating metal structures will use up a lot of Propane.
+        - text: So like any other Metalworking supplies, stock up as much as you can.
+        - text: Each Tank holds 8 Units which is not a lot when you're welding.
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: That's only enough for one Metal Crate with a tiny bit to spare!
+        - text: My neighborhood has a bit of a shortage, hopefully you have more luck.
+        - text: I think there's another Scrap Metal Maniac on my turf.
+        - text: Thanks for watching guys! We'll see you next time!
+          codes:
+          - MTL+1
+          - BOR-1
+        - text: Scrap Metal Maniac
+          icon: music
+  farming:
+    agriculture:
+      vanilla XP: 162.5
+      reels:
+      - key: SMR_Farming-E1
+        itemDisplayName: "VHS: The Homestead E1"
+        title: Farming
+        subtitle: "Episode 1: Digging"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Nature's bounty is all you need to keep fed in this life.
+        - text: Today we're talking digging holes to get our crops ready.
+        - text: You can use a standard Shovel, or you can use a Trowel.
+        - text: You're going to be digging a lot of holes while farming
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: so you'll want to make sure you have an extra Shovel.
+        - text: If you're planting large fields because you're feeding lots
+        - text: you should get help. Not necessary if you're feeding yourself.
+        - text: You'll want to dig in a safe location for your crops.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Maybe even set up a grow on the roof of a structure.
+        - text: Randoms can trample your crops and ruin them all.
+        - text: You don't want that, so plan your grow sites well.
+        - text: As long as you aren't careless with your digs
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: your crops should grow well in your chosen location
+        - text: without anyone bothering them. Keeps a lot of pests out too.
+        - text: Except birds but you can't do much about that anyway.
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+      - key: SMR_Farming-E2
+        itemDisplayName: "VHS: The Homestead E2"
+        title: Farming
+        subtitle: "Episode 2: Planting"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Today we're going to be talking about planting our seeds
+        - text: You'll want adequate spacing between all of your crops.
+        - text: This will help prevent disease. We'll talk more about that later.
+        - text: For now, rows a few spaces apart will do fine for learning to farm.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Plant a few crops with the seeds you have and give them some water.
+        - text: You always want your crops to be Well Watered so they can keep growing.
+        - text: Check your water once per day unless it's raining to keep crops happy!
+        - text: If your crops are anything but Well Watered you risk losing the crops.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: During the rainy seasons you can keep Water Catchers out for extra water.
+        - text: The rain will provide enough for your crops and reduce your workload.
+        - text: Do not forget those Water Catchers in your garden! It can save your crops.
+        - text: You also need Sunlight on your crops as much as possible. That's obvious.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Proper planning for your grow site will prevent future issues so plan ahead.
+        - text: It's worth every bit of preparing to keep your crops healthy.
+        - text: Now we give these crops a little time to grow and check on them later!
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+      - key: SMR_Farming-E3
+        itemDisplayName: "VHS: The Homestead E3"
+        title: Farming
+        subtitle: "Episode 3: Disease"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Today we're talking Plant Diseases and Pests that attack crops!
+        - text: Now you'll need some specific knowledge to deal with some of these.
+        - text: So everyone make sure and read The Farming Magazine for some quick cures.
+        - text: First up is Mildew which makes your plants grow slower than normal.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: You could end up starving waiting for your crops to come in.
+        - text: And it's going to require more water and more work to mature your plants.
+        - text: Second up is Insects. These pests will consume all your plant's water.
+        - text: You risk your plants dying off if you don't get rid of them quickly.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Third up is Devil's Water Fungus. Now this bastard is impossible to treat.
+        - text: It's way more common in plants that have diseases or pests already!
+        - text: If your plants have Fungus you need to dig them up before it spreads.
+        - text: All of these issues can spread to nearby plants, guys. Deal with them fast!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Especially with Fungus. Don't wait unless you are truly desperate for food.
+        - text: All of these can devastate your fields and leave you hurting for food supplies.
+        - text: Lesser Homesteaders would find their end here. But not us. We fight on.
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+      - key: SMR_Farming-E4
+        itemDisplayName: "VHS: The Homestead E4"
+        title: Farming
+        subtitle: "Episode 4: Growth Rates"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Today we're talking the growth rate for our crops.
+        - text: You have 5 stages of growth but you only need to know 2 of them.
+        - text: Ready To Harvest or In Bloom, and Seed-bearing crops.
+        - text: Ready to Harvest or In Bloom crops will give you more food.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: But you will want to wait if you can until crops produce some seeds.
+        - text: You get more seeds out than you put in and you still get some food.
+        - text: This will keep your farm churning out food when you need it.
+        - text: Now if you're starving and you can't wait you should harvest them.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Good crops should provide you with enough food to at least survive
+        - text: until you can get your hands on some more seeds. Most of the time...
+        - text: Subsistence farming isn't an exact science. You just plant and hope.
+        - text: You work all you can for good crops but there's no perfect method
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: to producing enough food for you and your group. Some eat more than others.
+        - text: That's not something easy to predict. Your best bet is to hone your skills.
+        - text: You'll get more food as a skilled farmer.
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+      - key: SMR_Farming-E5
+        itemDisplayName: "VHS: The Homestead E5"
+        title: Farming
+        subtitle: "Episode 5: Fertilizer"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Today we're going to talk about Fertilizer and when to use it.
+        - text: It's very handy and can save you in a pinch when starving.
+        - text: Fertilizer can shave 20 hours off your grow time when used.
+        - text: but it's not easy to come by so you want to save it for emergencies.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Sometimes you can find Fertilizer in sheds and warehouses.
+        - text: So it's always a good idea to keep an eye out for it on supply runs.
+        - text: If you have mid level Carpentry skills you can make a Composter.
+        - text: This will help you in having some Fertilizer around but it's not
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: going to be useful enough to give you a lot of Fertilizer.
+        - text: The problem is you require Rotten food and lots of time when
+        - text: you are making Fertilizer for your crops. 2 weeks regularly.
+        - text: If you're Subsistence living then Rotten food may not be something
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: you have a lot of because you consume most of your resources.
+        - text: It really isn't worth the trouble to grow crops for Fertilizer.
+        - text: So save your Fertilizer for special crops or for emergencies.
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+      - key: SMR_Farming-E6
+        itemDisplayName: "VHS: The Homestead E6"
+        title: Farming
+        subtitle: "Episode 6: Large Farms"
+        lines:
+        - text: The Homestead!
+          icon: music
+        - text: Howdy folks and welcome to The Homestead!
+        - text: Where we learn to grow our own food without relying on others.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Today we're going to talk about efficient large farms.
+        - text: When you have a group to feed efficiency is important.
+        - text: Wasted food could be used for Fertilizer but it could also
+        - text: mean starving to death as well. Risky gamble you know.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: Large farms require adequate spacing for all crops so
+        - text: they don't spread diseases or pests to each other. Or Fungus.
+        - text: You may not be able to treat every single crop for diseases.
+        - text: Speaking of, Strawberries are a disease magnet in these parts.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: As enjoyable as Strawberries are the work is not worth it.
+        - text: Now you'll want to space out your plantings on large farms.
+        - text: You may not have the manpower to harvest quickly so a delay
+        - text: of a day or two between rows of crops can prevent rot.
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: If you leave your crops too long without harvesting they will rot.
+        - text: You can lose your whole harvest and end up starving.
+        - text: Not a good time, especially when you have a group to feed.
+        - text: Well that's all we have for today. See you next time!
+          codes:
+          - FRM+1
+          - BOR-1
+        - text: The Homestead!
+          icon: music
+    animal care:
+    butchering:
+  physical:
+    fitness:
+    lightfooted:
+      vanilla XP: 12.5
+    nimble:
+    running:
+    sneaking:
+    strength:
+  survival:
+    first aid:
+      vanilla XP: 162.5
+      reels:
+      - key: SMR_FirstAid-E1
+        itemDisplayName: "VHS: Damn It Jim-Bob E1"
+        title: FirstAid
+        subtitle: "Episode 1: Bandages"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: First Aid is a hard skill to get good at and harder to master.
+        - text: To really learn you need wounds to treat regularly.
+        - text: That's not feasible outside of working a Hospital.
+        - text: Your best bet in our case is working on your friends.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Lets talk simple Bandages first and foremost here.
+        - text: For a simple cut you want a sterlized bandage.
+        - text: A regular bandage or rag will do the trick for a while.
+        - text: Those bandages get dirty fast and you want to change them.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: If you don't you could get an infection and die from it.
+        - text: Even if you don't die, the fever will exhaust you a lot.
+        - text: Keep a lot of Bandages handy especially with friends around.
+        - text: Sterilized is best to prevent infection but not always doable.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Work with what you have and make the best of it out there.
+        - text: Practice on your friends and yourself whenever the chance arises.
+        - text: You'll get some good experience doing that and in time learn more.
+        - text: That's all for today! Tomorrow we're talking Disinfecting!
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+      - key: SMR_FirstAid-E2
+        itemDisplayName: "VHS: Damn It Jim-Bob E2"
+        title: FirstAid
+        subtitle: "Episode 2: Disinfecting"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: When you've got open wounds you always have a chance of infection.
+        - text: You'll want to keep a Bottle of Disinfectant around for wounds.
+        - text: Or a bottle of Bourbon if you're in a pinch and low on supplies.
+        - text: You can boil Bandages to Sterilize them but that takes time.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: You may not always have time when treating wounds.
+        - text: As always do the best with what you have on hand.
+        - text: You do want to make sure you Sterilize as much as possible though.
+        - text: Using your downtime to get supplies ready is important here.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: That way you always have Sterilized Bandages ready to go.
+        - text: And you don't have to deal with someone bleeding on your floor lots.
+        - text: Jim-Bob has just completely ruined the floor of my garage.
+        - text: I've never seen a man with all his fingers but so many chunks missing.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Now someone who might come to you with a missing finger is Daryl.
+        - text: That scrap metal is sharp and he's not very careful about it.
+        - text: If you're lucky you'll have lots of practice with friends.
+        - text: And if you're skilled they won't die. Tomorrow lets talk Lacerations.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+      - key: SMR_FirstAid-E3
+        itemDisplayName: "VHS: Damn It Jim-Bob E3"
+        title: FirstAid
+        subtitle: "Episode 3: Lacerations"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Today we're going to talk about deep cuts, or Lacerations.
+        - text: You'll definitely want to Suture these wounds shut.
+        - text: You want a Suture Needle for this job if you can get it.
+        - text: But a regular needle and thread can do the trick.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: It will just be more painful and probably less sterile.
+        - text: But we make do with what we have on hand around here.
+        - text: You'll want some pain meds around if you're Suturing wounds.
+        - text: Lacerations hurt enough by themselves without stitching.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: You can also find Suture Needle Holders sometimes too.
+        - text: Those will make Suturing Lacerations quicker and less painful.
+        - text: Always make sure you're Disinfecting these wounds.
+        - text: And with a Suture you don't want to use a Bandage.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Let the wound air out to heal faster with Sutures.
+        - text: Your friends will thank you for it, trust me.
+        - text: The increase in healing speed makes a difference.
+        - text: Tomorrow we're going to talk about Pills!
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+      - key: SMR_FirstAid-E4
+        itemDisplayName: "VHS: Damn It Jim-Bob E4"
+        title: FirstAid
+        subtitle: "Episode 4: Pills"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Today we're talking Pills of all kinds for medical use.
+        - text: There are a variety of useful pills out there we need.
+        - text: You have Antibiotics for treating wound infections.
+        - text: There's Antidepressants to ease Unhappiness.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Beta Blockers can help you reduce Panic.
+        - text: Sleeping Tablets if you need rest badly.
+        - text: You can use these to sleep while in pain!
+        - text: Vitamins if you need to stay awake longer.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: And good old Painkillers to numb your pain.
+        - text: All of these are useful to you in treating people.
+        - text: It's not just physical wounds you will deal with.
+        - text: Stresses of all kinds will get you down bad.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: They can mess with your health quickly.
+        - text: So we keep a big stockpile of Pills around here.
+        - text: You never know when you will need some.
+        - text: Tomorrow we're going to talk about Bites!
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+      - key: SMR_FirstAid-E5
+        itemDisplayName: "VHS: Damn It Jim-Bob E5"
+        title: FirstAid
+        subtitle: "Episode 5: Bites"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Today we're talking Bites. They're really nasty wounds.
+        - text: The human mouth is just teeming with harmful bacteria.
+        - text: Our inner defenses do a really good job of protecting us.
+        - text: But that doesn't do much good when it comes to bites.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: It's a direct transfer from a bacteria breeding grounds.
+        - text: A direct transfer right into an open wound of all things.
+        - text: You could catch all kinds of things from being bitten.
+        - text: If you get bitten you have a high chance getting a bad infection.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: So avoid situations where someone rabid like Jim-Bob tries to bite you.
+        - text: Well what happens if you or a friend gets bit out in the wild?
+        - text: You could come down with a fever that exhausts your whole body.
+        - text: You'll be hot and queasy all the time and won't heal properly.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Your infection could just get worse and worse. Could be fatal.
+        - text: Sometimes it takes weeks to die from an infection.
+        - text: Sometimes it's a whole lot quicker than that.
+        - text: Next time we're going to talk about Poultices.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+      - key: SMR_FirstAid-E6
+        itemDisplayName: "VHS: Damn It Jim-Bob E6"
+        title: FirstAid
+        subtitle: "Episode 6: Herbal Meds"
+        lines:
+        - text: Damn It Jim-Bob!
+          icon: music
+        - text: Hi I'm Nancy the resident Medic here in the area.
+        - text: I patch up the good folks around here when they get hurt.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Today we're talking Herbal Poultices.
+        - text: If you've read The Herbalist then you know them.
+        - text: Comfrey, Plantain and Wild Garlic Poultices.
+        - text: These three need to be crushed in a Mortar and Pestle.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Comfrey aids in healing broken bones. Very helpful.
+        - text: Plantain helps with faster wound recovery.
+        - text: Wild Garlic can fight against wound infections!
+        - text: There are other herbs like Black Sage for pain relief.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Common Mallow helps with Cold and Flu symptoms.
+        - text: Lemon Grass can help with food poisoning. Keep it on hand.
+        - text: Ginseng can give bursts of energy and keep you chugging along.
+        - text: Now all of these herbs are found by Foraging only.
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: And you have to read The Herbalist to know what to look for.
+        - text: It helps to have friends who specialize in Foraging.
+        - text: Willie is always out and about gathering those damn Mushrooms.
+        - text: That's all for today! We'll see you all next time!
+          codes:
+          - DOC+1
+          - BOR-1
+        - text: Damn It Jim-Bob!
+          icon: music
+    fishing:
+      vanilla XP: 125
+      reels:
+      - key: SMR_Fishing-E1
+        itemDisplayName: "VHS: Fat Bass Fishing E1"
+        title: Fishing
+        subtitle: "Episode 1: Fishing Rods"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're talking Fishing Rods and where to get them.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Now you can find Fishing Rods a few different places.
+        - text: In garden sheds, shacks in the woods and hardware stores.
+        - text: They're not incredibly common so keep an eye out for one.
+        - text: You can always craft a Makeshift Fishing Rod if you have a copy
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: of Angler USA Magazine Volume 1. That makes things a bit easier.
+        - text: Not a guarantee you'll find that issue on your runs though.
+        - text: Keep looking out there for fishing supplies so you can fish
+        - text: without any issues in the future. Because your line will break.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: You'll need some supplies to fix up your rod in that case.
+        - text: You can use a Paperclip or Nail, and Fishing Line or Twine.
+        - text: That will get your rod back in to working order again.
+        - text: In the beginning your line may break a lot. You just have to deal.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: So be sure to get as much Twine and Fishing Line as you can find.
+        - text: It's worth it's weight in gold and anyone would find it useful.
+        - text: Keep your stash of repair materials stashed safely.
+        - text: Hopefully in no time flat you should be a fishing pro!
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+      - key: SMR_Fishing-E2
+        itemDisplayName: "VHS: Fat Bass Fishing E2"
+        title: Fishing
+        subtitle: "Episode 2: Bait"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're talking about different kinds of fishing bait.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: There are 3 types of bait to use including Insects, Tackle and Small Fish.
+        - text: Worms are the most common bait and you can get them by digging a lot.
+        - text: When using worms even if you don't catch something you will lose your worm.
+        - text: There are other insects that work as bait that you can find out there.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Tackle usually won't be consumed while fishing so it's good to have some.
+        - text: It will catch you more fish but should be saved up in your stash.
+        - text: wThose are good for Mid and High Level Fishing skills to be efficient.
+        - text: Stick to fishing with worms. You should find plenty by farming actually.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: The last kind of bait are Little Bait Fish which you get fishing.
+        - text: This bait is only for catching Pike and has a high chance of getting
+        - text: you junk in return for your efforts. It's consumed when used for fishing.
+        - text: So there you have it, those are your bait options while fishing.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: If you strike it rich on Fishing Tackle you'll likely have plenty of fish.
+        - text: But good old worm fishing is always an option to consider.
+        - text: Especially during hard times. Sometimes the basics are what we need.
+        - text: And when you're Subsistence living every piece of scrap counts.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+      - key: SMR_Fishing-E3
+        itemDisplayName: "VHS: Fat Bass Fishing E3"
+        title: Fishing
+        subtitle: "Episode 3: Nets"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're talking about Fishing Net Traps.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: With these Nets you're going to catch Little Bait Fish.
+        - text: If you have the supplies to make a few of these do it.
+        - text: Little Bait Fish can catch you a Pike if you're skilled.
+        - text: Luck always plays a big part in fishing but easy bait helps.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Check on your traps every hour for a catch to be efficient.
+        - text: If you leave Nets for more than 15 hours they will break.
+        - text: You don't want to go wasting good Twine on these if all
+        - text: you do is ignore them and let them break in the water.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: So be sure to grab your traps and take them home.
+        - text: That way you can keep efficiently getting some bait.
+        - text: Now with these Traps you don't have to leave the area.
+        - text: You can hang out and do some fishing with your rod too.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Maximizing your time and effort will keep you well fed.
+        - text: You want to practice these things when you have a group
+        - text: depending on you to keep them fed. Every bit helps.
+        - text: So get out there and get to fishing. Become a pro!
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+      - key: SMR_Fishing-E4
+        itemDisplayName: "VHS: Fat Bass Fishing E4"
+        title: Fishing
+        subtitle: "Episode 4: Spear Fishing"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're going to talk about Spear Fishing.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: It's not very efficient but in a pinch it can save you.
+        - text: Crafting up a regular Spear is what you need for this.
+        - text: It's about as sturdy as a Makeshift Fishing Rod with Twine
+        - text: so it's a decent alternative on a very strict budget.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Since it's not efficient you'll get lower returns.
+        - text: Even if you're a master fisherman this will net you
+        - text: only the bare minimum of fish to cook and eat.
+        - text: This is just an emergency tactic if you're starving.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: As a master myself I don't use this technique much.
+        - text: It was more something I did out of frustration
+        - text: early in my fishing journey so I didn't starve.
+        - text: The luck and efficiency that comes from Rod and Tackle
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: just can't be beat if we're talking food to eat here.
+        - text: Worms are still going to be your best bet though.
+        - text: Hopefully today you learned an important skill.
+        - text: One that may save you in a pinch out there.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+      - key: SMR_Fishing-E5
+        itemDisplayName: "VHS: Fat Bass Fishing E5"
+        title: Fishing
+        subtitle: "Episode 5: Seasonal Fishing"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're going to talk about Seasonal Fishing.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Mostly we're just going to talk about how winter sucks.
+        - text: Between November and February you have decreased chances
+        - text: of catching a fish. Especially with Spear Fishing.
+        - text: You need some skill to overcome this decrease.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: So it's smart to spend Spring and Summer fishing!
+        - text: By the time Winter rolls around you'll have some skill.
+        - text: You won't be out there on the shore starving.
+        - text: You'll be able to kick back and relax while you fish.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: You'll be bringing home enough fish to feed your group.
+        - text: It all comes with time and patience when it comes to fishing.
+        - text: So get your gear early and hit the shore early.
+        - text: You'll be well on your way to being a fishing pro!
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: So remember, Winter really sucks for Fishing.
+        - text: You CAN catch fish, but you want to be prepared.
+        - text: And that comes with not waiting until winter
+        - text: to start your fishing journey and train up.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+      - key: SMR_Fishing-E6
+        itemDisplayName: "VHS: Fat Bass Fishing E6"
+        title: Fishing
+        subtitle: "Episode 6: Overfishing"
+        lines:
+        - text: Fat Bass Fishing!
+          icon: music
+        - text: Welcome to Fat Bass Fishing! I'm your host Rodney.
+        - text: Today we're talking about Overfishing, and Abundance levels.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: While you're out fishing you may have noticed the Abundance
+        - text: of the fish in the area you're fishing in. It matters.
+        - text: Now the lower the Abundance the less likely you will get fish.
+        - text: And once that Abundance is gone you won't catch fish in that spot.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: You have to let Nature heal and let the fish multiply some.
+        - text: Even Overfished spots will heal eventually. May wait a while though.
+        - text: So your best chance against Overfishing is to plan ahead.
+        - text: You can't always know how much your group is going to need
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: but you can take meaningful effort not to exhaust the fish.
+        - text: Don't continually fish the same spots. Travel a while.
+        - text: If you're stuck with a small body of water well buddy I hope
+        - text: you know how to farm and trap as well. You're gonna Overfish it.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: If you're desperate and starving don't save the Abundance.
+        - text: It would be better to Overfish a spot temporarily than to starve.
+        - text: Hopefully now you know all you need to know about Fishing.
+        - text: Keep working at it and you'll be a professional in no time.
+          codes:
+          - FIS+1
+          - BOR-1
+        - text: Fat Bass Fishing!
+          icon: music
+    foraging:
+      vanilla XP: 100
+      reels:
+      - key: SMR_Foraging-E1
+        itemDisplayName: "VHS: The Magic of Mushrooms E1"
+        title: Foraging
+        subtitle: "Episode 1: Bad Mushrooms"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Oh yeah man I'm Willie. Nice to meet you.
+        - text: Today we're talking about Bad Mushrooms.
+        - text: Every Mushroom has a chance of being bad.
+        - text: And so you gotta read The Herbalist, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The same with Berries. Once you can tell,
+        - text: avoid those Mushrooms and Berries.
+        - text: You can always risk it man. Those Mushrooms
+        - text: won't kill you, probably. I'm alright man
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: and I eat the Bad Mushrooms too. Hahaha.
+        - text: I'll tell you a secret, man. They get you high.
+        - text: Yeah man. You'll wish you were dead after.
+        - text: And maybe you could die if you eat a lot.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: So that's why you gotta read The Herbalist, man.
+        - text: So when you get high it's your choice, man.
+        - text: And when you just wanna eat the Good Mushrooms
+        - text: you can tell the difference between them.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+      - key: SMR_Foraging-E2
+        itemDisplayName: "VHS: The Magic of Mushrooms E2"
+        title: Foraging
+        subtitle: "Episode 2: Picking up Junk"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm Willie and I pick Mushrooms for a living, man.
+        - text: But before you can start finding Mushrooms,
+        - text: you gotta start small, man. With trash, man.
+        - text: So to get skilled at Foraging you gotta pick things up.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Get into the groove man, go into Search Mode.
+        - text: Look around all over, man. You'll find stuff.
+        - text: I made my start finding Aluminum and Denim Strips, man.
+        - text: Daryl and Ruby love that stuff and trade all kinds of things.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Yeah man, that's how I found Mushrooms in the first place.
+        - text: You get lost in a whole different world on those things, man.
+        - text: Yeah I dunno how many times I've been out there on Mushrooms
+        - text: and bumped right into Wayne catching Rabbits.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: He's like a Grizzly Bear, man. He sees you before you see him.
+        - text: Yeah man, you wander into his territory and he smells you.
+        - text: Molesting his hunt makes him mad like a Grizzly too.
+        - text: I tell him here man, eat these, you'll chill out.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+      - key: SMR_Foraging-E3
+        itemDisplayName: "VHS: The Magic of Mushrooms E3"
+        title: Foraging
+        subtitle: "Episode 3: Wild Vegetables"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm Willie and I pick Mushrooms for a living, man.
+        - text: But today we're talking about wild vegetables, man.
+        - text: Yeah you can find all kinds of wild vegetables out there.
+        - text: Tomatoes, cabbage, bell peppers. All kinds of stuff, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: And if you have friends like mine they will like the seeds.
+        - text: Roger grows vegetables on The Homestead so he's always happy
+        - text: when I bring home a bunch of vegetables and seeds for us.
+        - text: He doesn't like it when I only bring Mushrooms home.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: He says nobody else will eat them because of the poison.
+        - text: I say it's okay sometimes, man. Just be easy on them.
+        - text: Only a couple a day, man. You pay for them later, man.
+        - text: Yeah sometimes they'll give you a fever so be easy!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Oh yeah we were talking about vegetables, man.
+        - text: Keep an eye out for lots of vegetables to bring home.
+        - text: Your friends will be happy and cook you good food, man.
+        - text: And you can use the seeds to grow more vegetables, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+      - key: SMR_Foraging-E4
+        itemDisplayName: "VHS: The Magic of Mushrooms E4"
+        title: Foraging
+        subtitle: "Episode 4: Other Stuff"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm Willie and I pick Mushrooms for a living, man.
+        - text: When you're out looking for Mushrooms you'll find lots of stuff, man.
+        - text: Sometimes you can find flowers that don't rot, man. You can eat them.
+        - text: Yeah they're not great, man. They're better than eating bugs though.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: You can find other stuff like fruit and eggs though, man.
+        - text: That takes a lot of skill to find, man. It's not easy.
+        - text: Sometimes you can find Magazines that teach you stuff though.
+        - text: Just keep going out there and searching for stuff, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: You'll get more and more skilled and find better stuff for sure.
+        - text: And you can take it back home to your friends, man.
+        - text: While I'm out for Mushrooms I'm always open to more, man.
+        - text: You can find all kinds of wild treasures out there.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Yeah you won't need to have money anymore, man.
+        - text: Nature will provide your food, and people like filled the Earth
+        - text: with junk to trade and use so there's lots out there for us.
+        - text: You just gotta know what to look for, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+      - key: SMR_Foraging-E5
+        itemDisplayName: "VHS: The Magic of Mushrooms E5"
+        title: Foraging
+        subtitle: "Episode 5: Weather"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm Willie and I pick Mushrooms for a living, man.
+        - text: You wanna make sure when you go out for Mushrooms you're safe, man.
+        - text: Bad Weather, and going out in Darkness are will get you hurt, man.
+        - text: And that's not good out in the wild when you're all alone.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Oh yeah and it makes finding things harder, man.
+        - text: You'll have a bad time if you go out in bad weather or night, man.
+        - text: Better safe than sorry, man. So go out during the daytime.
+        - text: You can go all kinds of places and find all kinds of things, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: But you gotta do it safely otherwise you'll just be some bones, man.
+        - text: And Wayne will find you out there in the trees while he's hunting.
+        - text: It wouldn't be the first time that's happened, man. Wayne travels.
+        - text: Wayne is usually armed though and can take care of himself though, man.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: He hunts at night and goes way out into the forest by himself.
+        - text: I go out that far sometimes but usually it's the Mushrooms, man.
+        - text: They lead you places and you just go with the flow for sure.
+        - text: It's mystical, man. You can't explain it. You just feel it.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+      - key: SMR_Foraging-E6
+        itemDisplayName: "VHS: The Magic of Mushrooms E6"
+        title: Foraging
+        subtitle: "Episode 6: Don't Get Lost"
+        lines:
+        - text: The Magic of Mushrooms!
+          icon: music
+        - text: Hey man welcome to The Magic of Mushrooms!
+        - text: The show where we go out looking for Good Mushrooms!
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm Willie and I pick Mushrooms for a living, man.
+        - text: I've been seeing lots of people out in the forest lately, man.
+        - text: A bunch of them look like they're lost out there but it's weird.
+        - text: They're all in a group but they don't seem to like other people.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: Maybe it's just the Mushrooms but I swear I heard them growling, man.
+        - text: They're not out there looking for Mushrooms that's for sure.
+        - text: They don't come around any of my spots, man. They don't want Mushrooms.
+        - text: They get mad about loud noises and go look for the sound.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I just leave them all alone, man. They seem to like company.
+        - text: But it made me remember to tell you all, don't get lost out here.
+        - text: Yeah, man. You can get lost easily looking for Mushrooms.
+        - text: They can grow anywhere so you travel a lot to find them.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: I'm lucky because Wayne always ends up near me out there, man.
+        - text: It's like he's tracking me like one of his rabbits, man. Haha.
+        - text: Nice to know he's there in the wild with me though.
+        - text: Even if he gets mad at me when we bump into each other out there.
+          codes:
+          - FOR+1
+          - BOR-1
+        - text: The Magic of Mushrooms!
+          icon: music
+    tracking:
+    trapping:
+      vanilla XP: 125
+      reels:
+      - key: SMR_Trapping-E1
+        itemDisplayName: "VHS: Man vs Rabies E1"
+        title: Trapping
+        subtitle: "Episode 1: Traps"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: Hi My name is Wayne and welcome to Man vs Rabies!
+        - text: I'm here to teach you how to catch rabbits and not rabies!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Now trapping is a great way to get yourself some meat.
+        - text: You'll primarily be after Rabbit and Squirrel.
+        - text: If you're in a pinch though you may have to eat birds. Or mice.
+        - text: This should be pretty safe. There haven't been any documented cases
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: of rabies from eating properly cooked animals. It's from saliva, so bites.
+        - text: Like an rational adult I'm terrified of rabies. It's a death sentence.
+        - text: We're out in the boonies on The Homestead so a hospital may be too far away.
+        - text: We'll be trapping deep in the wilderness too so we need to be careful.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Now your traps effectiveness depends on it's strength. Sturdy is better.
+        - text: But there's nothing wrong with home-made traps for trapping game.
+        - text: You can learn some effective traps from issues of The Hunter Magazine.
+        - text: Snare Traps, Stick Traps, Box Traps and Crate Traps. All useful.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: With more skill you can make Cage Traps from 5 Wires.
+        - text: Good traps for catching Rabbits which is what we want.
+        - text: Squirrels aren't bad either though. Meat is meat.
+        - text: That's all for now. Next time we'll talk Bait.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music
+      - key: SMR_Trapping-E2
+        itemDisplayName: "VHS: Man vs Rabies E2"
+        title: Trapping
+        subtitle: "Episode 2: Bait"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: Hi My name is Wayne and welcome to Man vs Rabies!
+        - text: I'm here to teach you how to catch rabbits and not rabies!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Today we're talking about bait and how to use it effectively.
+        - text: Each critter's tastes are a bit different so you variety.
+        - text: Squirrels like cereal, nuts and popcorn the most.
+        - text: Mice and rats love cheese, nuts and chocolate.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Birds like bread, cereal and corn.
+        - text: The rabbit's we're after love vegetables.
+        - text: Roger back at The Homestead grows vegetables for us.
+        - text: Perfect for our purposes. Bit of extra supplies rabbits.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Now you want to use fresh bait but some stale stuff works.
+        - text: Critters won't go for anything rotten. You wouldn't either.
+        - text: So your bait will determine what you're trapping.
+        - text: Plan accordingly, keep your traps ready and you will do fine.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: It doesn't hurt to have friends with vegetables.
+        - text: More than that because Rodney always has chocolate. Hahaha.
+        - text: Also remember in a pinch you can bait for birds with worms!
+        - text: That's all for now. Next time we'll talk Location.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music
+      - key: SMR_Trapping-E3
+        itemDisplayName: "VHS: Man vs Rabies E3"
+        title: Trapping
+        subtitle: "Episode 3: Locations"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: Hi My name is Wayne and welcome to Man vs Rabies!
+        - text: I'm here to teach you how to catch rabbits and not rabies!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Today we're talking about effective trapping locations.
+        - text: Each critter is a bit different and prefer different spots.
+        - text: The rabbits we're going after are in the Deep Forest.
+        - text: You can find some closer to town but not as many.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: The same with Squirrels. Deep Forest is the place.
+        - text: Now if you're in a pinch and need quick meat,
+        - text: You can find mice and birds near Farms and Towns.
+        - text: Your time of day also determines what you catch!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Rabbits and Squirrels are nocturnal so trap at night.
+        - text: Between the hours of 19:00 and 5:00 for these two.
+        - text: Birds and mice are active all day long.
+        - text: So if you're in a pinch for meat don't wait.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Go out and set up some traps. Check them hourly.
+        - text: I almost forgot! You want your traps in hidden spots.
+        - text: If you or other people hang around animals won't go near.
+        - text: And your traps might get trampled and broken to pieces!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music
+      - key: SMR_Trapping-E4
+        itemDisplayName: "VHS: Man vs Rabies E4"
+        title: Trapping
+        subtitle: "Episode 4: I Lost My Traps"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: Hi My name is Wayne and welcome to Man vs Rabies!
+        - text: I'm here to teach you how to catch rabbits and not rabies!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Today we're both learning an important lesson.
+        - text: I lost my traps because I was too proud to leave markers.
+        - text: I didn't want anyone following me to my trapping spots.
+        - text: I keep bumping into Willie out here looking for Mushrooms.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: I don't want him to scare away all the prey in the area.
+        - text: He means well but he's an old bird brain. A human crow.
+        - text: He'll see the shine of those Cage Traps from a mile away,
+        - text: and then go touch them to find out what they are.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Enough about that though. I lost the exact spot I was in.
+        - text: So from now on I'm going to be placing markers for my traps.
+        - text: Some kind of trail I can follow back to good trapping locations.
+        - text: I'd rather get some meat and bump into Willie more than starve.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: I wonder what kind of cheap markers I can make out here?
+        - text: Worth thinking about. I'll have to check my supplies at home.
+        - text: No use in wandering around aimlessly out here in the wild.
+        - text: Time to go back to The Homestead for more traps, and some markers.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music
+      - key: SMR_Trapping-E5
+        itemDisplayName: "VHS: Man vs Rabies E5"
+        title: Trapping
+        subtitle: "Episode 5: Frequent Visitors"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: Hi My name is Wayne and welcome to Man vs Rabies!
+        - text: I'm here to teach you how to catch rabbits and not rabies!
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: So I'm starting to think the markers were a bad idea.
+        - text: I'm bumping into a lot more people out here lately.
+        - text: I'm not the only one trapping and it's noticeable.
+        - text: Something must be driving folks out here.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: We live out in the backwoods here but to be honest,
+        - text: you don't see that many people trapping anymore.
+        - text: Us at The Homestead made the choice to live small.
+        - text: It really has me wondering what's going on.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Regular folks out here subsisting on rabbit,
+        - text: just feels like a bad omen for the future.
+        - text: It's hopefully nothing really bad and just
+        - text: some economic woes having people a bit hungry.
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: We should stop worrying I guess and focus.
+        - text: Lets go check some traps and see what we got.
+        - text: "*leaves rustling violently*"
+        - text: Hey! Who's there? Willie is that you?
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music
+      - key: SMR_Trapping-E6
+        itemDisplayName: "VHS: Man vs Rabies E6"
+        title: Trapping
+        subtitle: "Episode 6: Professional Trapping"
+        lines:
+        - text: Man vs Rabies!
+          icon: music
+        - text: "Willie: Hey has anyone seen Wayne today?"
+        - text: "Roger: No. He was out trapping yesterday."
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: "Roger: Maybe he got lost or something."
+        - text: "Willie: No that's not like him at all."
+        - text: "Willie: He usually finds ME out there man."
+        - text: "Rodney: I saw him trapping out by Riverside."
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: "Rodney: He looked a bit weird. Just kinda off."
+        - text: "Rodney: His shirt had a hole in it."
+        - text: "Rodney: He looked a bit confused when I waved."
+        - text: "Rodney: Didn't look wounded or anything."
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: "Willie: Sounds like bad Mushrooms man."
+        - text: "Roger: He doesn't eat Mushrooms."
+        - text: "Willie: Oh yeah man I forgot."
+        - text: "Willie: I'm the only one who eats the Mushrooms."
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: "Roger: He's missing the taping of his last episode."
+        - text: "Rodney: That's okay he can tape over this later."
+        - text: "Roger: Yeah probably the first thing he does."
+        - text: "Roger: He has been gone a while though."
+          codes:
+          - TRA+1
+          - BOR-1
+        - text: Man vs Rabies!
+          icon: music

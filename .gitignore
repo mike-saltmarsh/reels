@@ -1,0 +1,13 @@
+# Junk
+__pycache__/
+.idea/
+.orig/
+.pytest_cache/
+.venv/
+.sandbox/
+.vscode/
+renders/
+build/
+
+# Secrets
+.env

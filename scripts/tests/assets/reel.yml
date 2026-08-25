@@ -1,0 +1,21 @@
+- key: Electrical-E1  # A unique item key being used by the game engine
+  itemDisplayName: "VHS: Keeping Your Tools Intact"
+  title: Maintenance
+  subtitle: Whatever
+  category: Retail-VHS
+  lines:
+  - text: Line 1 text
+    icon: music
+    color: green
+    codes:
+    - BOR-1
+  - text: Line 2 text
+    codes:
+    - ELC+1
+    - BOR-1
+  - text: Line 3 text
+    # codes:
+    # - ELC+1
+    # - BOR-1
+
+    # color: green
