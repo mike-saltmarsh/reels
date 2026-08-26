@@ -1,0 +1,56 @@
+ANG Anger
+BOR Boredom
+END Endurance
+FAT Fatigue
+FIT Fitness
+HUN Hunger
+MOR Morale
+STS Stress
+PAN Panic
+SAN Sanity
+SIC Sickness
+PAI Pain
+DRU Intoxication
+THI Thirst
+UHP Unhappiness
+--Skills
+--agility
+SPR Sprinting
+LFT Lightfooted
+NIM Nimble
+SNE Sneaking
+--blade
+BAA Axe
+BUA Blunt
+--crafting
+CRP Carpentry
+COO Cooking
+FRM Farming
+DOC Doctor
+ELC Electricity
+MTL MetalWelding
+FKN FlintKnapping
+CRV Carving
+--firearm
+AIM Aiming
+REL Reloading
+--survivalist
+FIS Fishing
+TRA Trapping
+FOR Foraging
+--new
+TAI Tailoring
+MEC Mechanics
+ 
+CMB Combat
+SPE Spear
+SBU SmallBlunt
+LBA LongBlade
+SBA SmallBlade
+MAS Masonry
+POT Pottery
+BLA Blacksmith
+GLA Glassmaking
+HUS Husbandry
+BUT Butchering
+TRK Tracking
