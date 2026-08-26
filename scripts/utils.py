@@ -43,38 +43,19 @@ class Icon(StrEnum):
     MUSIC = "music"
 
 
-def hash_MD5(text):
+def hash_MD5(text) -> str:
     m = hashlib.md5()
     m.update(text.encode("utf-8"))
     return m.hexdigest()
 
 
-def consistent_hash_64(text: str) -> int:
-    hex_digest = hash_MD5(text)
-    unsigned_64 = int(hex_digest[:16], 16)
-
-    if unsigned_64 >= 0x8000000000000000:
-        return unsigned_64 - 0x10000000000000000
-    return unsigned_64
-
-
-def hash_uuid(text) -> uuid.UUID:
-    md5_hash = hash_MD5(text)
-    dashed_uuid = uuid.UUID(md5_hash)
-    return dashed_uuid
-
-
-def format_hash(text: Any) -> str:
-    return "RM_" + str(text)
-
-
 class _(str):
     @property
-    def md5(self):
+    def md5(self) -> str:
         return hash_MD5(self)
 
     @property
-    def key(self):
+    def key(self) -> str:
         return "RM_" + str(self.md5)
 
     @classmethod
@@ -92,10 +73,6 @@ def code_data_loader(value: str | tuple[CodeAbbr, int]) -> tuple[CodeAbbr, int]:
     else:
         return_value = value
     return return_value
-
-
-def line_color_loader(value):
-    return value
 
 
 CodeData = Annotated[tuple[CodeAbbr, int], BeforeValidator(code_data_loader)]
@@ -132,25 +109,23 @@ class TapeLine(BaseModel):
             text = self.text
         return text
 
-    @classmethod
-    def parse_humanized_color(cls, v):
-        return LineColorHumanizedMapping[v].value
-
     @field_validator("color", mode="before")
     @classmethod
     def validate_color(cls, value: str | Color):
+        possible_values = LineColorHumanizedMapping.keys()
+
+        if type(value) not in (str, Color):
+            raise TypeError("Color must be either str or Color.")
+
         if isinstance(value, str):
-            possible_values = LineColorHumanizedMapping.keys()
-            if value in possible_values:
-                return LineColorHumanizedMapping[value].value
-            else:
+            if value not in possible_values:
                 raise ValueError(
                     "Invalid color value. Input must be one of: "
                     + ", ".join(possible_values),
                 )
-        else:
-            return_value = value
-        return return_value
+            return LineColorHumanizedMapping[value].value
+        elif isinstance(value, Color):
+            return value.model_dump()
 
 
 class ReelCategory(StrEnum):
@@ -161,12 +136,6 @@ class Reel(BaseModel):
     key: str
     itemDisplayName: _
     title: _
-    subtitle: _ | None = None
+    subtitle: _
     category: ReelCategory = ReelCategory.RETAIL
     lines: list[TapeLine] = []
-
-    def add_line(self, line: TapeLine):
-        if not isinstance(line, TapeLine):
-            raise TypeError("line should be an instance of TapeLine")
-
-        self.lines.append(line)

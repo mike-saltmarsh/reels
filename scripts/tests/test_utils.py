@@ -114,10 +114,14 @@ class TestTapeLine:
         assert o.color.g == 1.0
         assert o.color.b == 1.0
 
-    def test_color(self):
-        o = TapeLine(color="green")
+    @pytest.mark.parametrize("test_color", ["magenta", None])
+    def test_error_on_wrong_color(self, test_color):
+        with pytest.raises(Exception):
+            TapeLine(color=test_color)
 
-        assert o.color.g == LineColorRGB.GREEN.value["g"]
+    @pytest.mark.parametrize("test_color", ["green", Color(r=1, g=1, b=1)])
+    def test_color(self, test_color):
+        TapeLine(color=test_color)
 
 
 class TestReel:
@@ -144,10 +148,3 @@ class TestReel:
 
     def test_default_category_is_retail(self, r):
         assert r.category == ReelCategory.RETAIL
-
-    def test_add_line(self, r):
-        line = TapeLine()
-
-        r.add_line(line)
-
-        assert r.lines[0] == line

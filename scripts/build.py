@@ -1,7 +1,7 @@
 import json
 from os import PathLike
 from pathlib import Path
-from typing import TypeVar
+from typing import Any, TypeVar
 from jinja2 import Environment, FileSystemLoader
 from pydantic import BaseModel
 import yaml
@@ -11,7 +11,7 @@ from scripts.utils import Reel
 T = TypeVar("T", bound=BaseModel)
 
 
-def _load_yaml(file_path: PathLike):
+def _load_yaml(file_path: PathLike) -> dict[Any, Any]:
     path = Path(file_path)
     if not path.exists():
         raise FileNotFoundError(f"YAML file missing at: {path.absolute()}")
@@ -20,7 +20,7 @@ def _load_yaml(file_path: PathLike):
     return raw_data
 
 
-def _parse_reels_data(o):
+def _parse_reels_data(o) -> list[Reel]:
     reels: list[Reel] = []
     for _, skill_category in o["skills"].items():
         for _, skill in skill_category.items():
@@ -32,13 +32,13 @@ def _parse_reels_data(o):
     return reels
 
 
-def load_reels(file_path: PathLike):
+def load_reels(file_path: PathLike) -> list[Reel]:
     reels_data = _load_yaml(file_path)
     reels = _parse_reels_data(reels_data)
     return reels
 
 
-def fill_template(reels: list[Reel], template_to_use: str):
+def fill_template(reels: list[Reel], template_to_use: str) -> str:
     templates_dir = Path(__file__).parent.parent / "assets" / "templates"
     file_loader = FileSystemLoader(templates_dir)
     env = Environment(loader=file_loader, trim_blocks=True, lstrip_blocks=True)

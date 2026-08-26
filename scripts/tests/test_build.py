@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from uuid import uuid4
 
 import pytest
 
@@ -63,3 +64,8 @@ class TestTemplates:
 
         with open(".sandbox/output.json", "w", encoding="utf-8") as file:
             json.dump(translations, file, indent=2)
+
+
+def test_load_yaml_error_on_wrong_path():
+    with pytest.raises(FileNotFoundError):
+        _load_yaml(str(uuid4))
