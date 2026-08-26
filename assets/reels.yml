@@ -1786,6 +1786,260 @@ skills:
         - text: Ill Eagle Engines!
           icon: music
     pottery:
+      reels:
+      - key: SMR_Pottery-E1
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E1"
+        title: Pottery
+        subtitle: "Episode 1: Digging the Earth"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to craft.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Kentucky has some of the finest soil around.
+        - text: Today we are foraging for raw, natural clay.
+        - text: You must search near local riverbeds and streams.
+        - text: Look for wet, grey earth along the banks.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: A heavy shovel will help you dig it out.
+        - text: Take this wild clay back to your safe workspace.
+        - text: Place it carefully on a clean crafting table.
+        - text: Now we must prepare the wet, sticky slip.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Add a bit of clean water and knead it well.
+        - text: This removes any pockets of air inside.
+        - text: Air pockets will make the pottery explode.
+        - text: Always keep your work area neat and secure.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Those groaning neighbors are never far away.
+        - text: In our next episode, we will shape a cup.
+        - text: Keep your tools close and stay safe tonight.
+        - text: Thank you for watching, and happy potting.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+      - key: SMR_Pottery-E2
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E2"
+        title: Pottery
+        subtitle: "Episode 2: Hand-Built Survival"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to ceramics.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Today we shape raw clay without a wheel.
+        - text: Survival in Kentucky requires secure vessels.
+        - text: Those groaning neighbors are outside the door.
+        - text: But we must focus on basic hand-building.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Take your prepared clay and knead it well.
+        - text: First we will try the classic pinch method.
+        - text: Roll a smooth ball of clay in your palms.
+        - text: Press your thumb deep into the very center.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Pinch the walls upward to form a simple cup.
+        - text: Next we can make a pot using clay coils.
+        - text: Roll long clay snakes on your work surface.
+        - text: Stack the coils and smooth them with water.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: This crude pot will soon hold clean water.
+        - text: Keep your campfire hidden while firing clay.
+        - text: Join us next time to build a proper kiln.
+        - text: Stay safe in the woods and happy potting.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+      - key: SMR_Pottery-E3
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E3"
+        title: Pottery
+        subtitle: "Episode 3: The Kick Wheel"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to ceramics.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Today we build a primitive human-powered kick wheel.
+        - text: Without electricity, we must use our own muscles.
+        - text: Build a sturdy wooden frame at your crafting table.
+        - text: Mount a heavy flywheel at the bottom of the shaft.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Kick the wheel with your foot to get it spinning.
+        - text: Centrifugal force will do the hard work for you.
+        - text: Throw a lump of prepared gray clay onto the bat.
+        - text: Wet your hands with clean water to keep it smooth.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Press with both palms to center the spinning clay.
+        - text: Push your thumbs down to open up the middle.
+        - text: Pull the walls upward to form a perfect bowl.
+        - text: You can also shape simple, symmetrical cups.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: These vessels will secure your drinking water.
+        - text: Keep your safehouse secure while you practice.
+        - text: Join us next time to learn about the pit kiln.
+        - text: Stay safe in Kentucky and happy potting.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+      - key: SMR_Pottery-E4
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E4"
+        title: Pottery
+        subtitle: "Episode 4: Raising the Pit Kiln"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to ceramics.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Today we build a simple outdoor pit kiln.
+        - text: First, we must dig a shallow hole in the soil.
+        - text: Use a metal shovel or a sturdy garden trowel.
+        - text: Lay dry straw and kindling along the bottom.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Carefully place your dry clay vessels inside.
+        - text: Stack dry firewood high over the clay pots.
+        - text: We want a slow fire to bake them safely.
+        - text: Sudden high heat will crack your hard work.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Light the kindling and let the fire burn down.
+        - text: The hot embers will bake the clay to stone.
+        - text: Keep a watchful eye on the rising smoke.
+        - text: Bright fires can draw unwanted attention here.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Those creeping neighbors are always wandering.
+        - text: Once cooled, your waterproof pots are ready.
+        - text: Thank you for watching and happy potting.
+        - text: Stay safe in Kentucky and keep practicing.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+      - key: SMR_Pottery-E5
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E5"
+        title: Pottery
+        subtitle: "Episode 5: Ash and Earth Glazes"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to ceramics.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Today we make our fired pottery waterproof.
+        - text: An unglazed pot will leak your drinking water.
+        - text: The wandering dead are still outside our door.
+        - text: But we must focus on the chemistry of glaze.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Clean your wooden crafting table before we start.
+        - text: Gather fine wood ash from your cold campfire.
+        - text: Mix the gray ash with wet, mineral-rich clay.
+        - text: Grind them together with a stone pestle.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Add water to make a smooth, liquid paste.
+        - text: Dip your dry clay cups and bowls into the mix.
+        - text: This mixture melts into a protective glass coat.
+        - text: Fire your glazed vessels in a very hot kiln.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Always keep your hammer close while you work.
+        - text: Soon you will have safe, clean water storage.
+        - text: Stay safe in Kentucky and keep practicing.
+        - text: Join us next time on Wheels, Kilns, and Clay.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+      - key: SMR_Pottery-E6
+        itemDisplayName: "Pottery: Wheels, Kilns, and Clay E6"
+        title: Pottery
+        subtitle: "Episode 6: Master of the Flame"
+        lines:
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+        - text: Welcome back to Wheels, Kilns, and Clay.
+        - text: I am Susan Peterson, your guide to ceramics.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Today we master the heat of the fire itself.
+        - text: Deep in Kentucky, the dead are still hunting us.
+        - text: But we must focus on reaching high temperatures.
+        - text: Place your glazed stoneware inside the brick kiln.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: You must control the draft to raise the flame.
+        - text: Stack dry hardwood and seal the kiln door tight.
+        - text: Watch the color of the heat through the peephole.
+        - text: We need a bright orange glow to melt the glaze.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: This extreme heat fuses clay into durable stone.
+        - text: Do not let the fire die out too quickly today.
+        - text: Keep your trusty shotgun loaded just in case.
+        - text: This stoneware will hold your clean drinking water.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: Safe water is how we survive another winter.
+        - text: Practice your craft and keep the safehouse secure.
+        - text: Join us next time for more pottery lessons.
+        - text: Stay safe in Kentucky and happy potting.
+          codes:
+          - POT+1
+          - BOR-1
+        - text: "Pottery: Wheels, Kilns, and Clay!"
+          icon: music
+
     tailoring:
       vanilla XP: 150
       reels:
@@ -3585,4 +3839,4 @@ skills:
         - text: Man vs Rabies!
           icon: music
 
-memo: aiming, reloading, blacksmithing, glassmaking, masonry, pottery, animal care, butchering, tracking
+memo: aiming, reloading, blacksmithing, glassmaking, animal care, butchering, tracking

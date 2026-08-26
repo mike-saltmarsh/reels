@@ -39,6 +39,7 @@ class CodeAbbr(StrEnum):
     CARVING = "CRV"
     KNAPPING = "KNP"
     MASONRY = "MSN"
+    POTTERY = "POT"
 
 
 class Icon(StrEnum):
