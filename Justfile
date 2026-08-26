@@ -8,8 +8,8 @@ redeploy_locally: build
     rm -rf ~/Zomboid/Workshop/reels
     cp -r ~/projects/reels/build ~/Zomboid/Workshop/reels    
 
-test_scripts: 
-    uv run pytest scripts/tests
+test_scripts: format typecheck
+    uv run pytest --cov=scripts --cov-report=xml scripts/tests
 
 format:
     uv run black ./scripts/
