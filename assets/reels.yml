@@ -1276,6 +1276,260 @@ skills:
           icon: music
 
     masonry:
+      reels:
+      - key: SMR_Masonry-E1
+        itemDisplayName: "Masonry: Solid as Stone E1"
+        title: Masonry
+        subtitle: "Episode 1: Clay and Chemistry"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky homestead.
+        - text: The dead are wandering down the gravel roads.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: We must build strong walls to keep them out.
+        - text: Today we learn to forage for raw sticky clay.
+        - text: Search the riverbanks and low muddy ditches.
+        - text: Dig deep into the dirt with your bare hands.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Fill your heavy sacks with this gray earth.
+        - text: Carry the clay back to your secure workspace.
+        - text: Now we must mix a perfect binding mortar.
+        - text: Blend the smooth clay with fine creek sand.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Add a little fresh water to activate it.
+        - text: Stir the mixture until it becomes very thick.
+        - text: This mortar will hold your heavy stones tight.
+        - text: Use a metal trowel to spread an even layer.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Place each stone carefully along the chalk line.
+        - text: Soon you will have a solid rock barricade.
+        - text: Keep your tools sharp and your gates locked.
+        - text: Join us next time on Solid as Stone.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+      - key: SMR_Masonry-E2
+        itemDisplayName: "Masonry: Solid as Stone E2"
+        title: Masonry
+        subtitle: "Episode 2: The Chisel's Edge"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky workshop.
+        - text: The shadows grow long as the neighbors gather.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Today we shape sharp flint flakes into real tools.
+        - text: You will need a steady hand and a heavy hammer.
+        - text: Set your stone materials on the crafting surface.
+        - text: We will start by crafting a sharp stone chisel.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Tap the flat flint gently along the bottom edge.
+        - text: Whittle the stone down to form a fine bevel.
+        - text: Now we can research this chisel to unlock more.
+        - text: Next let us try to craft a thin stone awl.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Strike the sides until it tapers to a sharp point.
+        - text: This tool will easily pierce leather or soft wood.
+        - text: Finally we can fashion a reliable stone blade.
+        - text: Use it to cut branches or defend your campsite.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: One clean swing can keep the creeping dead away.
+        - text: Keep your tools sharp and your camp secure tonight.
+        - text: Join us next time on The Ancient Art.
+        - text: Happy knapping and stay safe out there.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+      - key: SMR_Masonry-E3
+        itemDisplayName: "Masonry: Solid as Stone E3"
+        title: Masonry
+        subtitle: "Episode 3: Laying the Line"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to Solid as Stone.
+        - text: The Knox County roads are growing more dangerous.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: High walls are the only way to sleep easy tonight.
+        - text: Today we learn to lay a perfect brick wall.
+        - text: First, you must stretch a tight string line.
+        - text: This level line guides your work from corner to corner.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Scoop up your mixed clay mortar on a metal trowel.
+        - text: Slap a generous bed of mortar along the base.
+        - text: Lay down your first red clay brick gently.
+        - text: Tap it with the trowel handle until it is level.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Place the next brick, leaving a small joint.
+        - text: For the second row, overlap the joints evenly.
+        - text: This classic running bond creates maximum strength.
+        - text: Scrap off any oozing mortar as you build upward.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: A strong brick wall will stop any hungry horde.
+        - text: Keep your tools clean and your camp hidden.
+        - text: Join us next time and stay safe in Kentucky.
+        - text: Good luck out there, and happy building.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+      - key: SMR_Masonry-E4
+        itemDisplayName: "Masonry: Solid as Stone E4"
+        title: Masonry
+        subtitle: "Episode 4: Stonework Defenses"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to Solid as Stone.
+        - text: The dead are pounding on the wooden fences.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Weak timber will not save you from a bite.
+        - text: Today we build thick stone defenses.
+        - text: Gather heavy river rocks from the woods.
+        - text: Pile them high near your wooden work area.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Mix a fresh batch of sticky clay mortar.
+        - text: Lay a broad bed of mortar on the ground.
+        - text: Place the largest flat stones at the base.
+        - text: Butter each joint with a generous layer.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Interlock the stones to create a tight bond.
+        - text: Use smaller pieces to fill in the gaps.
+        - text: Pack the wet mortar tight in every crevice.
+        - text: This solid rock wall is almost unbreakable.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: No walking corpse can push this barrier down.
+        - text: Keep your trowel clean and your guns loaded.
+        - text: Join us next time and stay safe in Kentucky.
+        - text: Good luck out there, and happy building.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+      - key: SMR_Masonry-E5
+        itemDisplayName: "Masonry: Solid as Stone E5"
+        title: Masonry
+        subtitle: "Episode 5: Plaster and Seal"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to Solid as Stone.
+        - text: The damp Kentucky air can ruin your brickwork.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Wet mortar will crumble if it freezes tonight.
+        - text: Today we learn to plaster and seal our walls.
+        - text: First, prepare a bucket of lime plaster mix.
+        - text: Blend the fine white powder with clean water.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Stir it well until it looks like thick cream.
+        - text: Grab your plaster trowel and a wooden hawk.
+        - text: Scoop a generous lump onto the flat board.
+        - text: Sweep the plaster upward in one smooth motion.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Press it firmly to fill the brick joints.
+        - text: Apply a second thin coat to smooth it out.
+        - text: Let it dry completely in the autumn sun.
+        - text: Now brush on a coat of liquid stone sealer.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: This clear coat keeps out the driving rain.
+        - text: Strong plaster will keep your defenses solid.
+        - text: Keep your tools clean and your fences safe.
+        - text: Join us next time and stay safe in Kentucky.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+      - key: SMR_Masonry-E6
+        itemDisplayName: "Masonry: Solid as Stone E6"
+        title: Masonry
+        subtitle: "Episode 6: The Master Keep"
+        lines:
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+        - text: Welcome back to the final block of Solid as Stone.
+        - text: The cold wind is howling across the Knox County fields.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Wood fires in open pits will attract too many hangers.
+        - text: Today we build a permanent keep for your safehouse.
+        - text: We are going to construct a secure indoor stone kiln.
+        - text: Clear out a wide corner away from any wooden frames.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Lay down a heavy foundation of thick concrete blocks.
+        - text: Use your metal trowel to slap down a bed of mortar.
+        - text: Stack the stones upward to form a strong fire chamber.
+        - text: Position a steel grate inside to hold your charcoal.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: Now we will build an elegant arched brick fireplace.
+        - text: Build the arch over a wooden form then let it cure.
+        - text: This secure kiln will melt metal and bake fresh bread.
+        - text: Safe indoor heat is the key to surviving the winter.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: No smoke will leak out to give away your position.
+        - text: Keep your hammer close and your iron gates barred.
+        - text: Thank you for watching and stay safe in Kentucky.
+        - text: Join us next time for more frontier craftsmanship.
+          codes:
+          - MSN+1
+          - BOR-1
+        - text: "Masonry: Solid as Stone!"
+          icon: music
+
     mechanics:
       vanilla XP: 262.5
       reels:
