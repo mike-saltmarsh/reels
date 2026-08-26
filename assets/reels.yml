@@ -352,26 +352,167 @@ skills:
         - text: Keep your knives sharp, be safe, and happy carving.
         - text: Woodcarving with Rick Bütz
           icon: music
-      # - key: SMR_Carving-E3
-      #   itemDisplayName: "Woodcarving with Rick Bütz E3"
-      #   title: Carving
-      #   subtitle: "Episode 3: Making A Tool Handle"
-      #   lines:
-      # - key: SMR_Carving-E4
-      #   itemDisplayName: "Woodcarving with Rick Bütz E4"
-      #   title: Carving
-      #   subtitle: "Episode 4: Whittling A Wooden Goblet"
-      #   lines:
-      # - key: SMR_Carving-E5
-      #   itemDisplayName: "Woodcarving with Rick Bütz E5"
-      #   title: Carving
-      #   subtitle: "Episode 5: Making Cutlery Crash Course"
-      #   lines:
-      # - key: SMR_Carving-E6
-      #   itemDisplayName: "Woodcarving with Rick Bütz E6"
-      #   title: Carving
-      #   subtitle: "Episode 6: Homemade "
-      #   lines:
+      - key: SMR_Carving-E3
+        itemDisplayName: "Woodcarving with Rick Bütz E3"
+        title: Carving
+        subtitle: "Episode 3: Making A Hammer Handle"
+        lines:
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+        - text: Welcome back. Today we make a sturdy wooden hammer handle.
+        - text: We will use a strong piece of straight-grained hickory.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Hickory is highly durable and absorbs heavy impacts well.
+        - text: First, secure the raw wood blank tightly in your vice.
+        - text: Use a sharp drawknife to shave down the rough square edges.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Pull the knife toward you with even, steady pressure.
+        - text: Keep checking your progress to ensure a comfortable grip.
+        - text: Shape the lower portion to fit the palm of your hand.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Now, taper the top end to fit inside the hammer eye.
+        - text: Use a small wood rasp to refine the neck of the handle.
+        - text: Cut a thin slot down the center of the top tapered end.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: This slot will hold our wooden wedge to lock it in place.
+        - text: Use some fine sandpaper to smooth out any rough spots left.
+        - text: Tap the handle firmly into the metal head of the hammer.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Drive the wedge into the slot to secure the head tightly.
+        - text: Join us next time. Keep your tools sharp and carve safely.
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+
+      - key: SMR_Carving-E4
+        itemDisplayName: "Woodcarving with Rick Bütz E4"
+        title: Carving
+        subtitle: "Episode 4: Whittling A Wooden Goblet"
+        lines:
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+        - text: Welcome back to Woodcarving. I am Rick Bütz.
+        - text: Today we are whittling a classic wooden goblet.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: We will carve this from a block of soft basswood.
+        - text: This project is excellent for practicing tool control.
+        - text: Draw the goblet profile on all sides of your wood.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Use a sharp detail knife to outline the outer cup.
+        - text: Carefully hollow out the bowl using a spoon gouge.
+        - text: Take thin shavings and work slowly from the center.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Always keep your non-carving hand behind the blade.
+        - text: Next, slice downward to rough out the slender stem.
+        - text: Relieve the wood gradually to prevent any splitting.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Shape the base with sweeping cuts toward the edge.
+        - text: Use fine sandpaper to smooth out the final details.
+        - text: Our beautiful wooden goblet is complete and ready.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Next week, we will carve a rustic wooden whistle.
+        - text: Keep your knives sharp, be safe, and happy carving.
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+      - key: SMR_Carving-E5
+        itemDisplayName: "Woodcarving with Rick Bütz E5"
+        title: Carving
+        subtitle: "Episode 5: Making Cutlery Crash Course"
+        lines:
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+        - text: Welcome back to Woodcarving. I am Rick Bütz.
+        - text: Today we have a crash course in making cutlery.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: We will carve a simple wooden spoon and a fork.
+        - text: Select a straight piece of unseasoned cherry wood.
+        - text: Draw the template of the spoon on your wood block.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Use a small hatchet to rough out the basic shape.
+        - text: Keep your cuts light and work slowly with the grain.
+        - text: Use a curved spoon gouge to hollow out the bowl.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Take very thin shavings to keep the surface smooth.
+        - text: Now we will carve the tines of our wooden fork.
+        - text: Use a small detail saw to cut between the tines.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Carefully clean up the narrow slots with a knife.
+        - text: Round all the sharp edges to make them comfortable.
+        - text: Give both pieces a quick rub with fine sandpaper.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Our beautiful handmade wooden set is now complete.
+        - text: Join us next week. Keep your knives sharp and safe.
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+      - key: SMR_Carving-E6
+        itemDisplayName: "Woodcarving with Rick Bütz E6"
+        title: Carving
+        subtitle: "Episode 6: Out Of Weapons? Carve a shortbat!"
+        lines:
+        - text: Woodcarving with Rick Bütz!
+          icon: music
+        - text: Welcome back to the woodcarving shop.
+        - text: Today we are in a bit of a tight spot.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Those groaning neighbors are at the door.
+        - text: And your trusty spiked bat just shattered.
+        - text: Do not panic if you are out of weapons.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: We can carve a sturdy shortbat right now.
+        - text: Start with a thick piece of seasoned wood.
+        - text: A sturdy hickory or ash branch is best.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Take your pocket knife and peel the bark.
+        - text: Smooth down the grip so it fits your hand.
+        - text: Whittle the barrel to keep it balanced.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: A few quick strokes will shape the handle.
+        - text: This simple bat will save your life today.
+        - text: One good swing can knock a zombie down.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Keep your tools sharp and your eyes open.
+        - text: Join us next time and happy carving.
+        - text: Woodcarving with Rick Bütz!
+          icon: music
     cooking:
       vanilla XP: 487.5
       reels:
