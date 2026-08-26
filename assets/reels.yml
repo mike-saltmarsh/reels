@@ -1025,6 +1025,256 @@ skills:
           icon: music
     glassmaking:
     knapping:
+      reels:
+      - key: SMR_Knapping-E1
+        itemDisplayName: "VHS: Knapping: The Ancient Art E1"
+        title: Knapping
+        subtitle: "Episode 1: Finding the Nodule"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to the wilderness of Kentucky.
+        - text: The modern world is gone but nature still provides.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Today we learn the ancient ways of stone crafting.
+        - text: Keep your eyes on the ground when you are foraging.
+        - text: Look closely along the riverbeds and forest paths.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: You are searching for rough gray flint nodules.
+        - text: Pick them up and bring them to your crafting surface.
+        - text: You will need a sturdy hammer to strike the stone.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Hold the flint nodule firmly against the wood.
+        - text: Strike the edge at a clean downward angle.
+        - text: Let the hammer blow fracture the rock naturally.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Small sharp flint flakes will break right off.
+        - text: These flakes are sharp enough to slice through skin.
+        - text: They will serve as the base for all your tools.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Keep practicing and stay safe in the woods.
+        - text: Join us next time on The Ancient Art.
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+      - key: SMR_Knapping-E2
+        itemDisplayName: "VHS: Knapping: The Ancient Art E2"
+        title: Knapping
+        subtitle: "Episode 2: Simple Edges"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to our rustic Kentucky shelter.
+        - text: Today we craft simple edges to survive the night.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: You will need a flat wooden crafting surface.
+        - text: Grab your hammer and those sharp flint flakes.
+        - text: We will shape these stones into reliable tools.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: First let us carve out a basic stone chisel.
+        - text: Place the flake down and tap the hammer gently.
+        - text: Carefully strike the edge to form a sharp bevel.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: This chisel is perfect for your masonry projects.
+        - text: Next we will knap a needle-like stone awl.
+        - text: Flake the sides until it tapers to a fine point.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Use it to pierce leather or drill through wood.
+        - text: Finally we can fashion a wicked stone blade.
+        - text: Slice and shave your way through the local brush.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Stay quiet and keep your eyes on the treeline.
+        - text: Join us next time on The Ancient Art.
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+      - key: SMR_Knapping-E3
+        itemDisplayName: "VHS: Knapping: The Ancient Art E3"
+        title: Knapping
+        subtitle: "Episode 3: Teeth of Stone"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky woodland.
+        - text: The shadows are growing longer every day.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: You need real tools to build a proper shelter.
+        - text: A simple stone blade will not cut thick timber.
+        - text: We must craft a saw with teeth made of stone.
+        - text: First you must find a modern saw to study.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Search the local tool sheds and wooden crates.
+        - text: Research a steel hacksaw or a common hand saw.
+        - text: Study the metal teeth to learn their pattern.
+        - text: Now grab your hammer and a fresh flint flake.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Set your materials down on the crafting surface.
+        - text: Strike the edge to flake away small grooves.
+        - text: Space each tooth evenly along the stone edge.
+        - text: Soon you will have a functional flint saw.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Use it to cut wooden logs into sturdy planks.
+        - text: It is a primitive way to master carpentry.
+        - text: Keep your camp hidden and your hammer ready.
+        - text: Join us next time on The Ancient Art.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+      - key: SMR_Knapping-E4
+        itemDisplayName: "VHS: Knapping: The Ancient Art E4"
+        title: Knapping
+        subtitle: "Episode 4: The Heavy Axe"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky camp.
+        - text: The trees are tall and the winter is cold.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: You will need heavy lumber to build a home.
+        - text: A small flint saw just will not cut it now.
+        - text: Today we knap a powerful stone axe head.
+        - text: First go foraging for a large flat stone.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Look for smooth gray river rocks on the ground.
+        - text: Bring your hammer to the wooden work surface.
+        - text: Hold the smooth stone firmly with your hand.
+        - text: Strike the flat face to clear the rough edges.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Deliver solid blows near the bottom corner.
+        - text: Be careful not to shatter the main body.
+        - text: Slowly a heavy wedge shape begins to form.
+        - text: Smooth it out until the edge is razor sharp.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: This stone axe will fell the thickest trees.
+        - text: It might also save you from a nasty bite.
+        - text: Keep your tools clean and your camp hidden.
+        - text: Join us next time on The Ancient Art.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+      - key: SMR_Knapping-E5
+        itemDisplayName: "VHS: Knapping: The Ancient Art E5"
+        title: Knapping
+        subtitle: "Episode 5: Borers and Beaters"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky workshop.
+        - text: The dead are walking but we must keep working.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Today we construct advanced utility gear.
+        - text: First we will craft a primitive stone drill.
+        - text: Study a steel hand drill or common auger.
+        - text: You will need a stone chisel for this task.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Set your flint nodule on the wooden surface.
+        - text: Use any heavy hammer to strike the center.
+        - text: Carefully bore a clean hole through the stone.
+        - text: Now let us make the deadly stone maul head.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Reach level four and grab a smooth flat stone.
+        - text: Deliver a massive blow with your club hammer.
+        - text: Whittle the sides into a heavy blunt wedge.
+        - text: This crushing weapon will shatter any skull.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: One swing can stop a charging zombie cold.
+        - text: Keep your camp secure and your tools sharp.
+        - text: Join us next time on The Ancient Art.
+        - text: Happy knapping and stay safe out there.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+      - key: SMR_Knapping-E6
+        itemDisplayName: "VHS: Knapping: The Ancient Art E6"
+        title: Knapping
+        subtitle: "Episode 6: The Long Blade"
+        lines:
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+        - text: Welcome back to our quiet Kentucky forest.
+        - text: The dead are scratching at the cabin door.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: You need a weapon with some serious reach.
+        - text: A short blade forces you to get too close.
+        - text: Today we master the ultimate knapping craft.
+        - text: We will knap a deadly long stone blade.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: First study a standard stone blade closely.
+        - text: This research unlocks the advanced recipe.
+        - text: Grab a large smooth flat stone to begin.
+        - text: Place your materials on the work surface.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: Tap the flat stone with a heavy hammer.
+        - text: Strike the edges at a steep downward angle.
+        - text: Thin out the sides to make it razor sharp.
+        - text: Whittle the base to fit a wooden handle.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: This long blade keeps the dead at a distance.
+        - text: Keep your tools sharp and your camp secure.
+        - text: Join us next time on The Ancient Art.
+        - text: Happy knapping and stay safe out there.
+          codes:
+          - KNP+1
+          - BOR-1
+        - text: "Knapping: The Ancient Art!"
+          icon: music
+
     masonry:
     mechanics:
       vanilla XP: 262.5
@@ -3081,4 +3331,4 @@ skills:
         - text: Man vs Rabies!
           icon: music
 
-b: aiming, reloading, blacksmithing, carving, glassmaking, knapping, masonry, pottery, animal care, butchering, tracking
+memo: aiming, reloading, blacksmithing, glassmaking, masonry, pottery, animal care, butchering, tracking

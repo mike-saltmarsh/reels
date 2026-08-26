@@ -37,6 +37,7 @@ class CodeAbbr(StrEnum):
     FORAGING = "FOR"
 
     CARVING = "CRV"
+    KNAPPING = "KNP"
 
 
 class Icon(StrEnum):
