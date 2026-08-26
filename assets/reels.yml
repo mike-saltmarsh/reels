@@ -272,6 +272,106 @@ skills:
         - text: This Old Trailer
           icon: music
     carving:
+      reels: 
+      - key: SMR_Carving-E1
+        itemDisplayName: "Woodcarving with Rick Bütz E1"
+        title: Carving
+        subtitle: "Episode 1: The Fundamentals of Chip Carving"
+        lines:
+        - text: Woodcarving with Rick Bütz
+          icon: music
+        - text: Hello and welcome to Woodcarving. I'm Rick Bütz, 
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Today we explore the ancient art of chip carving.
+        - text: We carve small triangles to make beautiful geometric patterns.
+        - text: Use a short chip carving knife and a smooth piece of basswood.
+        - text: Basswood is perfect for its straight grain and soft texture.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Draw a grid of squares on your board with a pencil and ruler.
+        - text: Inside each square, draw a triangle meeting at the center.
+        - text: Hold your knife at sixty degrees with your thumb anchored.
+        - text: Plunge your knife straight down from one corner to the center.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Repeat this deep cut on the other two sides of the triangle.
+        - text: Slice horizontally from the outer edge to meet your deep cuts.
+        - text: A crisp wooden chip should pop out, leaving a clean recess.
+        - text: If it sticks, do not pry. Re-insert and deepen the cuts.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Carve slowly and turn the board away from your holding hand.
+        - text: With patience, these cuts will form a beautiful star pattern.
+        - text: That is all our time today. Keep your knives sharp, be safe.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Woodcarving with Rick Bütz
+          icon: music
+      - key: SMR_Carving-E2
+        itemDisplayName: "Woodcarving with Rick Bütz E2"
+        title: Carving
+        subtitle: "Episode 2: Traditional Folk Carvings"
+        lines:
+        - text: Woodcarving with Rick Bütz
+          icon: music
+        - text: Welcome back to Woodcarving. I am Rick Bütz.
+        - text: Today, we are whittling traditional folk figures.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: We will carve a simple flat-plane wooden fisherman.
+        - text: Grab a block of soft white pine or clear basswood.
+        - text: Use your carving knife to block out the head first.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Make clean, slicing cuts to form the shoulders.
+        - text: Flat-plane carving relies on simple, bold angles.
+        - text: Avoid sanding your work. Keep the knife marks visible.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Now, let us define the brim of his classic hat.
+        - text: Slice downward to make his heavy winter coat.
+        - text: Keep your thumb anchored for perfect blade control.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Shave a tiny triangle of wood for the nose.
+        - text: Our little fisherman is looking wonderful already.
+        - text: Next week, we will tackle relief carving projects.
+          codes:
+          - CRV+1
+          - BOR-1
+        - text: Keep your knives sharp, be safe, and happy carving.
+        - text: Woodcarving with Rick Bütz
+          icon: music
+      # - key: SMR_Carving-E3
+      #   itemDisplayName: "Woodcarving with Rick Bütz E3"
+      #   title: Carving
+      #   subtitle: "Episode 3: Making A Tool Handle"
+      #   lines:
+      # - key: SMR_Carving-E4
+      #   itemDisplayName: "Woodcarving with Rick Bütz E4"
+      #   title: Carving
+      #   subtitle: "Episode 4: Whittling A Wooden Goblet"
+      #   lines:
+      # - key: SMR_Carving-E5
+      #   itemDisplayName: "Woodcarving with Rick Bütz E5"
+      #   title: Carving
+      #   subtitle: "Episode 5: Making Cutlery Crash Course"
+      #   lines:
+      # - key: SMR_Carving-E6
+      #   itemDisplayName: "Woodcarving with Rick Bütz E6"
+      #   title: Carving
+      #   subtitle: "Episode 6: Homemade "
+      #   lines:
     cooking:
       vanilla XP: 487.5
       reels:
@@ -2839,3 +2939,5 @@ skills:
           - BOR-1
         - text: Man vs Rabies!
           icon: music
+
+b: aiming, reloading, blacksmithing, carving, glassmaking, knapping, masonry, pottery, animal care, butchering, tracking

@@ -36,6 +36,8 @@ class CodeAbbr(StrEnum):
     TRAPPING = "TRA"
     FORAGING = "FOR"
 
+    CARVING = "CRV"
+
 
 class Icon(StrEnum):
     MUSIC = "music"
