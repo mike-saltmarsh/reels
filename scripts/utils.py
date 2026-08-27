@@ -37,8 +37,8 @@ class CodeAbbr(StrEnum):
     FORAGING = "FOR"
 
     CARVING = "CRV"
-    KNAPPING = "KNP"
-    MASONRY = "MSN"
+    KNAPPING = "FKN"
+    MASONRY = "MAS"
     POTTERY = "POT"
 
 
