@@ -12,6 +12,9 @@ class LineColorRGB(Enum):
     WHITE = {"r": 1.0, "g": 1.0, "b": 1.0}  # "#FFFFFF"
     GREEN = {"r": 0.0, "g": 0.69, "b": 0.31}  #  "#00B072"
     BLUE = {"r": 0.0, "g": 0.69, "b": 0.94}  # "#00B0f0"
+    RED = {"r": 1.0, "g": 0.0, "b": 0.0}  # "#FF0000"
+    YELLOW = {"r": 1.0, "g": 0.75, "b": 0.0}  # "#FFC000"
+    LIGHT_BLUE = {"r": 0.5, "g": 0.5, "b": 1.0}  # "#8080ff"
 
 
 LineColorHumanizedMapping = {
