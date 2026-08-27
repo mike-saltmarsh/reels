@@ -1,3 +1,5 @@
+set dotenv-load
+
 project_root := justfile_directory()
 
 launch: redeploy_locally
@@ -30,4 +32,10 @@ build: format test_scripts
     convert {{project_root}}/assets/poster.xcf -flatten {{project_root}}/build/Contents/mods/Reels/42.19/poster.png
     convert {{project_root}}/assets/poster.xcf -flatten {{project_root}}/build/preview.png
     uv run python -m scripts.build
-    
+
+steam_login:
+    steamcmd +login $STEAM_USERNAME +quit
+
+[confirm('This will upload the current build dir to the workshop. ')]
+steam_upload:
+    steamcmd +login $STEAM_USERNAME +workshop_build_item {{project_root}}/build.vdf +quit
